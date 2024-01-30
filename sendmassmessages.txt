@@ -1,0 +1,7999 @@
+REM Author: T30
+REM Description: Envio de mensajes masivos 
+
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Written by
+DELAY 1 	
+ENTER	
+STRING William Steig & Ted Elliott
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Once upon a time there was a lovely 
+DELAY 1 	
+ENTER	
+STRING princess. But she had an enchantment 
+DELAY 1 	
+ENTER	
+STRING upon her of a fearful sort which could 
+DELAY 1 	
+ENTER	
+STRING only be broken by love's first kiss. 
+DELAY 1 	
+ENTER	
+STRING She was locked away in a castle guarded 
+DELAY 1 	
+ENTER	
+STRING by a terrible fire-breathing dragon. 
+DELAY 1 	
+ENTER	
+STRING Many brave knights had attempted to 
+DELAY 1 	
+ENTER	
+STRING free her from this dreadful prison, 
+DELAY 1 	
+ENTER	
+STRING but non prevailed. She waited in the 
+DELAY 1 	
+ENTER	
+STRING dragon's keep in the highest room of 
+DELAY 1 	
+ENTER	
+STRING the tallest tower for her true love 
+DELAY 1 	
+ENTER	
+STRING and true love's first kiss. (laughs) 
+DELAY 1 	
+ENTER	
+STRING Like that's ever gonna happen. What 
+DELAY 1 	
+ENTER	
+STRING a load of - (toilet flush)
+DELAY 1 	
+ENTER	
+STRING Allstar - by Smashmouth begins to play. Shrek goes about his 
+DELAY 1 	
+ENTER	
+STRING day. While in a nearby town, the villagers get together to go 
+DELAY 1 	
+ENTER	
+STRING after the ogre.
+DELAY 1 	
+ENTER	
+STRING NIGHT - NEAR SHREK'S HOME
+DELAY 1 	
+ENTER	
+STRING MAN1
+DELAY 1 	
+ENTER	
+STRING Think it's in there?
+DELAY 1 	
+ENTER	
+STRING MAN2
+DELAY 1 	
+ENTER	
+STRING All right. Let's get it!
+DELAY 1 	
+ENTER	
+STRING MAN1
+DELAY 1 	
+ENTER	
+STRING Whoa. Hold on. Do you know what that 
+DELAY 1 	
+ENTER	
+STRING thing can do to you?
+DELAY 1 	
+ENTER	
+STRING MAN3
+DELAY 1 	
+ENTER	
+STRING Yeah, it'll grind your bones for it's 
+DELAY 1 	
+ENTER	
+STRING bread.
+DELAY 1 	
+ENTER	
+STRING Shrek sneaks up behind them and laughs.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Yes, well, actually, that would be a 
+DELAY 1 	
+ENTER	
+STRING giant. Now, ogres, oh they're much worse. 
+DELAY 1 	
+ENTER	
+STRING They'll make a suit from your freshly 
+DELAY 1 	
+ENTER	
+STRING peeled skin.
+DELAY 1 	
+ENTER	
+STRING MEN
+DELAY 1 	
+ENTER	
+STRING No!
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING They'll shave your liver. Squeeze the 
+DELAY 1 	
+ENTER	
+STRING jelly from your eyes! Actually, it's 
+DELAY 1 	
+ENTER	
+STRING quite good on toast.
+DELAY 1 	
+ENTER	
+STRING MAN1
+DELAY 1 	
+ENTER	
+STRING Back! Back, beast! Back! I warn ya! 
+DELAY 1 	
+ENTER	
+STRING (waves the torch at Shrek.)
+DELAY 1 	
+ENTER	
+STRING Shrek calmly licks his fingers and extinguishes the torch. The 
+DELAY 1 	
+ENTER	
+STRING men shrink back away from him. Shrek roars very loudly and long 
+DELAY 1 	
+ENTER	
+STRING and his breath extinguishes all the remaining torches until the 
+DELAY 1 	
+ENTER	
+STRING men are in the dark.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING This is the part where you run away. 
+DELAY 1 	
+ENTER	
+STRING (The men scramble to get away. He laughs.) 
+DELAY 1 	
+ENTER	
+STRING And stay out! (looks down and picks 
+DELAY 1 	
+ENTER	
+STRING up a piece of paper. Reads.) "Wanted. 
+DELAY 1 	
+ENTER	
+STRING Fairy tale creatures."(He sighs and 
+DELAY 1 	
+ENTER	
+STRING throws the paper over his shoulder.)
+DELAY 1 	
+ENTER	
+STRING THE NEXT DAY
+DELAY 1 	
+ENTER	
+STRING There is a line of fairy tale creatures. The head of the guard 
+DELAY 1 	
+ENTER	
+STRING sits at a table paying people for bringing the fairy tale creatures 
+DELAY 1 	
+ENTER	
+STRING to him. There are cages all around. Some of the people in line 
+DELAY 1 	
+ENTER	
+STRING are Peter Pan, who is carrying Tinkerbell in a cage, Gipetto 
+DELAY 1 	
+ENTER	
+STRING who's carrying Pinocchio, and a farmer who is carrying the three 
+DELAY 1 	
+ENTER	
+STRING little pigs.
+DELAY 1 	
+ENTER	
+STRING GUARD
+DELAY 1 	
+ENTER	
+STRING All right. This one's full. Take it 
+DELAY 1 	
+ENTER	
+STRING away! Move it along. Come on! Get up!
+DELAY 1 	
+ENTER	
+STRING HEAD GUARD
+DELAY 1 	
+ENTER	
+STRING Next!
+DELAY 1 	
+ENTER	
+STRING GUARD
+DELAY 1 	
+ENTER	
+STRING (taking the witch's broom) Give me that! 
+DELAY 1 	
+ENTER	
+STRING Your flying days are over. (breaks the 
+DELAY 1 	
+ENTER	
+STRING broom in half)
+DELAY 1 	
+ENTER	
+STRING HEAD GUARD
+DELAY 1 	
+ENTER	
+STRING That's 20 pieces of silver for the witch. 
+DELAY 1 	
+ENTER	
+STRING Next!
+DELAY 1 	
+ENTER	
+STRING GUARD
+DELAY 1 	
+ENTER	
+STRING Get up! Come on!
+DELAY 1 	
+ENTER	
+STRING HEAD GUARD
+DELAY 1 	
+ENTER	
+STRING Twenty pieces.
+DELAY 1 	
+ENTER	
+STRING LITTLE BEAR
+DELAY 1 	
+ENTER	
+STRING (crying) This cage is too small.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Please, don't turn me in. I'll never 
+DELAY 1 	
+ENTER	
+STRING be stubborn again. I can change. Please! 
+DELAY 1 	
+ENTER	
+STRING Give me another chance!
+DELAY 1 	
+ENTER	
+STRING OLD WOMAN
+DELAY 1 	
+ENTER	
+STRING Oh, shut up. (jerks his rope)
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Oh!
+DELAY 1 	
+ENTER	
+STRING HEAD GUARD
+DELAY 1 	
+ENTER	
+STRING Next! What have you got?
+DELAY 1 	
+ENTER	
+STRING GIPETTO
+DELAY 1 	
+ENTER	
+STRING This little wooden puppet.
+DELAY 1 	
+ENTER	
+STRING PINOCCHIO
+DELAY 1 	
+ENTER	
+STRING I'm not a puppet. I'm a real boy. (his 
+DELAY 1 	
+ENTER	
+STRING nose grows)
+DELAY 1 	
+ENTER	
+STRING HEAD GUARD
+DELAY 1 	
+ENTER	
+STRING Five shillings for the possessed toy. 
+DELAY 1 	
+ENTER	
+STRING Take it away.
+DELAY 1 	
+ENTER	
+STRING PINOCCHIO
+DELAY 1 	
+ENTER	
+STRING Father, please! Don't let them do this! 
+DELAY 1 	
+ENTER	
+STRING Help me!
+DELAY 1 	
+ENTER	
+STRING Gipetto takes the money and walks off. The old woman steps up 
+DELAY 1 	
+ENTER	
+STRING to the table.
+DELAY 1 	
+ENTER	
+STRING HEAD GUARD
+DELAY 1 	
+ENTER	
+STRING Next! What have you got?
+DELAY 1 	
+ENTER	
+STRING OLD WOMAN
+DELAY 1 	
+ENTER	
+STRING Well, I've got a talking donkey.
+DELAY 1 	
+ENTER	
+STRING HEAD GUARD
+DELAY 1 	
+ENTER	
+STRING Right. Well, that's good for ten shillings, 
+DELAY 1 	
+ENTER	
+STRING if you can prove it.
+DELAY 1 	
+ENTER	
+STRING OLD WOMAN
+DELAY 1 	
+ENTER	
+STRING Oh, go ahead, little fella.
+DELAY 1 	
+ENTER	
+STRING Donkey just looks up at her.
+DELAY 1 	
+ENTER	
+STRING HEAD GUARD
+DELAY 1 	
+ENTER	
+STRING Well?
+DELAY 1 	
+ENTER	
+STRING OLD WOMAN
+DELAY 1 	
+ENTER	
+STRING Oh, oh, he's just...he's just a little 
+DELAY 1 	
+ENTER	
+STRING nervous. He's really quite a chatterbox. 
+DELAY 1 	
+ENTER	
+STRING Talk, you boneheaded dolt...
+DELAY 1 	
+ENTER	
+STRING HEAD GUARD
+DELAY 1 	
+ENTER	
+STRING That's it. I've heard enough. Guards!
+DELAY 1 	
+ENTER	
+STRING OLD WOMAN
+DELAY 1 	
+ENTER	
+STRING No, no, he talks! He does. (pretends 
+DELAY 1 	
+ENTER	
+STRING to be Donkey) I can talk. I love to 
+DELAY 1 	
+ENTER	
+STRING talk. I'm the talkingest damn thing 
+DELAY 1 	
+ENTER	
+STRING you ever saw.
+DELAY 1 	
+ENTER	
+STRING HEAD GUARD
+DELAY 1 	
+ENTER	
+STRING Get her out of my sight.
+DELAY 1 	
+ENTER	
+STRING OLD WOMAN
+DELAY 1 	
+ENTER	
+STRING No, no! I swear! Oh! He can talk!
+DELAY 1 	
+ENTER	
+STRING The guards grab the old woman and she struggles with them. One 
+DELAY 1 	
+ENTER	
+STRING of her legs flies out and kicks Tinkerbell out of Peter Pan's 
+DELAY 1 	
+ENTER	
+STRING hands, and her cage drops on Donkey's head. He gets sprinkled 
+DELAY 1 	
+ENTER	
+STRING with fairy dust and he's able to fly.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Hey! I can fly!
+DELAY 1 	
+ENTER	
+STRING PETER PAN
+DELAY 1 	
+ENTER	
+STRING He can fly!
+DELAY 1 	
+ENTER	
+STRING 3 LITTLE PIGS
+DELAY 1 	
+ENTER	
+STRING He can fly!
+DELAY 1 	
+ENTER	
+STRING HEAD GUARD
+DELAY 1 	
+ENTER	
+STRING He can talk!
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Ha, ha! That's right, fool! Now I'm 
+DELAY 1 	
+ENTER	
+STRING a flying, talking donkey. You might 
+DELAY 1 	
+ENTER	
+STRING have seen a housefly, maybe even a superfly 
+DELAY 1 	
+ENTER	
+STRING but I bet you ain't never seen a donkey 
+DELAY 1 	
+ENTER	
+STRING fly. Ha, ha! (the pixie dust begins 
+DELAY 1 	
+ENTER	
+STRING to wear off) Uh-oh. (he begins to sink 
+DELAY 1 	
+ENTER	
+STRING to the ground.)
+DELAY 1 	
+ENTER	
+STRING He hits the ground with a thud.
+DELAY 1 	
+ENTER	
+STRING HEAD GUARD
+DELAY 1 	
+ENTER	
+STRING Seize him! (Donkey takes of running.) 
+DELAY 1 	
+ENTER	
+STRING After him!
+DELAY 1 	
+ENTER	
+STRING GUARDS
+DELAY 1 	
+ENTER	
+STRING He's getting away! Get him! This way! 
+DELAY 1 	
+ENTER	
+STRING Turn!
+DELAY 1 	
+ENTER	
+STRING Donkey keeps running and he eventually runs into Shrek. Literally. 
+DELAY 1 	
+ENTER	
+STRING Shrek turns around to see who bumped into him. Donkey looks scared 
+DELAY 1 	
+ENTER	
+STRING for a moment then he spots the guards coming up the path. He 
+DELAY 1 	
+ENTER	
+STRING quickly hides behind Shrek.
+DELAY 1 	
+ENTER	
+STRING HEAD GUARD
+DELAY 1 	
+ENTER	
+STRING You there. Ogre!
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Aye?
+DELAY 1 	
+ENTER	
+STRING HEAD GUARD
+DELAY 1 	
+ENTER	
+STRING By the order of Lord Farquaad I am authorized 
+DELAY 1 	
+ENTER	
+STRING to place you both under arrest and transport 
+DELAY 1 	
+ENTER	
+STRING you to a designated resettlement facility.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Oh, really? You and what army?
+DELAY 1 	
+ENTER	
+STRING He looks behind the guard and the guard turns to look as well 
+DELAY 1 	
+ENTER	
+STRING and we see that the other men have run off. The guard tucks tail 
+DELAY 1 	
+ENTER	
+STRING and runs off. Shrek laughs and goes back about his business and 
+DELAY 1 	
+ENTER	
+STRING begins walking back to his cottage.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Can I say something to you? Listen, 
+DELAY 1 	
+ENTER	
+STRING you was really, really, really somethin' 
+DELAY 1 	
+ENTER	
+STRING back here. Incredible!
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Are you talkin' to...(he turns around 
+DELAY 1 	
+ENTER	
+STRING and Donkey is gone) me? (he turns back 
+DELAY 1 	
+ENTER	
+STRING around and Donkey is right in front 
+DELAY 1 	
+ENTER	
+STRING of him.) Whoa!
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Yes. I was talkin' to you. Can I tell 
+DELAY 1 	
+ENTER	
+STRING you that you that you was great back 
+DELAY 1 	
+ENTER	
+STRING here? Those guards! They thought they 
+DELAY 1 	
+ENTER	
+STRING was all of that. Then you showed up, 
+DELAY 1 	
+ENTER	
+STRING and bam! They was trippin' over themselves 
+DELAY 1 	
+ENTER	
+STRING like babes in the woods. That really 
+DELAY 1 	
+ENTER	
+STRING made me feel good to see that.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Oh, that's great. Really.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Man, it's good to be free.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Now, why don't you go celebrate your 
+DELAY 1 	
+ENTER	
+STRING freedom with your own friends? Hmm?
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING But, uh, I don't have any friends. And 
+DELAY 1 	
+ENTER	
+STRING I'm not goin' out there by myself. Hey, 
+DELAY 1 	
+ENTER	
+STRING wait a minute! I got a great idea! I'll 
+DELAY 1 	
+ENTER	
+STRING stick with you. You're mean, green, 
+DELAY 1 	
+ENTER	
+STRING fightin' machine. Together we'll scare 
+DELAY 1 	
+ENTER	
+STRING the spit out of anybody that crosses 
+DELAY 1 	
+ENTER	
+STRING us.
+DELAY 1 	
+ENTER	
+STRING Shrek turns and regards Donkey for a moment before roaring very 
+DELAY 1 	
+ENTER	
+STRING loudly.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Oh, wow! That was really scary. If you 
+DELAY 1 	
+ENTER	
+STRING don't mind me sayin', if that don't 
+DELAY 1 	
+ENTER	
+STRING work, your breath certainly will get 
+DELAY 1 	
+ENTER	
+STRING the job done, 'cause you definitely 
+DELAY 1 	
+ENTER	
+STRING need some Tic Tacs or something, 'cause 
+DELAY 1 	
+ENTER	
+STRING you breath stinks! You almost burned 
+DELAY 1 	
+ENTER	
+STRING the hair outta my nose, just like the 
+DELAY 1 	
+ENTER	
+STRING time...(Shrek covers his mouth but Donkey 
+DELAY 1 	
+ENTER	
+STRING continues to talk, so Shrek removes 
+DELAY 1 	
+ENTER	
+STRING his hand.) ...then I ate some rotten 
+DELAY 1 	
+ENTER	
+STRING berries. I had strong gases leaking 
+DELAY 1 	
+ENTER	
+STRING out of my butt that day.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Why are you following me?
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING I'll tell you why. (singing) 'Cause 
+DELAY 1 	
+ENTER	
+STRING I'm all alone, There's no one here beside 
+DELAY 1 	
+ENTER	
+STRING me, My problems have all gone, There's 
+DELAY 1 	
+ENTER	
+STRING no one to deride me, But you gotta have 
+DELAY 1 	
+ENTER	
+STRING faith...
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Stop singing! It's no wonder you don't 
+DELAY 1 	
+ENTER	
+STRING have any friends.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Wow. Only a true friend would be that 
+DELAY 1 	
+ENTER	
+STRING cruelly honest.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Listen, little donkey. Take a look at 
+DELAY 1 	
+ENTER	
+STRING me. What am I?
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING (looks all the way up at Shrek) Uh ...really 
+DELAY 1 	
+ENTER	
+STRING tall?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING No! I'm an ogre! You know. "Grab your 
+DELAY 1 	
+ENTER	
+STRING torch and pitchforks." Doesn't that 
+DELAY 1 	
+ENTER	
+STRING bother you?
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Nope.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Really?
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Really, really.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Oh.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Man, I like you. What's you name?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Uh, Shrek.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Shrek? Well, you know what I like about 
+DELAY 1 	
+ENTER	
+STRING you, Shrek? You got that kind of I-don't-care-what-nobody-thinks-of-me 
+DELAY 1 	
+ENTER	
+STRING thing. I like that. I respect that, 
+DELAY 1 	
+ENTER	
+STRING Shrek. You all right. (They come over 
+DELAY 1 	
+ENTER	
+STRING a hill and you can see Shrek's cottage.) 
+DELAY 1 	
+ENTER	
+STRING Whoa! Look at that. Who'd want to live 
+DELAY 1 	
+ENTER	
+STRING in place like that?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING That would be my home.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Oh! And it is lovely! Just beautiful. 
+DELAY 1 	
+ENTER	
+STRING You know you are quite a decorator. 
+DELAY 1 	
+ENTER	
+STRING It's amazing what you've done with such 
+DELAY 1 	
+ENTER	
+STRING a modest budget. I like that boulder. 
+DELAY 1 	
+ENTER	
+STRING That is a nice boulder. I guess you 
+DELAY 1 	
+ENTER	
+STRING don't entertain much, do you?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING I like my privacy.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING You know, I do too. That's another thing 
+DELAY 1 	
+ENTER	
+STRING we have in common. Like I hate it when 
+DELAY 1 	
+ENTER	
+STRING you got somebody in your face. You've 
+DELAY 1 	
+ENTER	
+STRING trying to give them a hint, and they 
+DELAY 1 	
+ENTER	
+STRING won't leave. There's that awkward silence. 
+DELAY 1 	
+ENTER	
+STRING (awkward silence) Can I stay with you?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Uh, what?
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Can I stay with you, please?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING (sarcastically) Of course!
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Really?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING No.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Please! I don't wanna go back there! 
+DELAY 1 	
+ENTER	
+STRING You don't know what it's like to be 
+DELAY 1 	
+ENTER	
+STRING considered a freak. (pause while he 
+DELAY 1 	
+ENTER	
+STRING looks at Shrek) Well, maybe you do. 
+DELAY 1 	
+ENTER	
+STRING But that's why we gotta stick together. 
+DELAY 1 	
+ENTER	
+STRING You gotta let me stay! Please! Please!
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Okay! Okay! But one night only.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Ah! Thank you! (he runs inside the cottage)
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING What are you...? (Donkey hops up onto 
+DELAY 1 	
+ENTER	
+STRING a chair.) No! No!
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING This is gonna be fun! We can stay up 
+DELAY 1 	
+ENTER	
+STRING late, swappin' manly stories, and in 
+DELAY 1 	
+ENTER	
+STRING the mornin' I'm makin' waffles.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Oh!
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Where do, uh, I sleep?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING (irritated) Outside!
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Oh, well, I guess that's cool. I mean, 
+DELAY 1 	
+ENTER	
+STRING I don't know you, and you don't know 
+DELAY 1 	
+ENTER	
+STRING me, so I guess outside is best, you 
+DELAY 1 	
+ENTER	
+STRING know. Here I go. Good night. (Shrek 
+DELAY 1 	
+ENTER	
+STRING slams the door.) (sigh) I mean, I do 
+DELAY 1 	
+ENTER	
+STRING like the outdoors. I'm a donkey. I was 
+DELAY 1 	
+ENTER	
+STRING born outside. I'll just be sitting by 
+DELAY 1 	
+ENTER	
+STRING myself outside, I guess, you know. By 
+DELAY 1 	
+ENTER	
+STRING myself, outside. I'm all alone...there's 
+DELAY 1 	
+ENTER	
+STRING no one here beside me...
+DELAY 1 	
+ENTER	
+STRING SHREK'S COTTAGE - NIGHT
+DELAY 1 	
+ENTER	
+STRING Shrek is getting ready for dinner. He sits himself down and lights 
+DELAY 1 	
+ENTER	
+STRING a candle made out of earwax. He begins to eat when he hears a 
+DELAY 1 	
+ENTER	
+STRING noise. He stands up with a huff.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING (to Donkey) I thought I told you to 
+DELAY 1 	
+ENTER	
+STRING stay outside.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING (from the window) I am outside.
+DELAY 1 	
+ENTER	
+STRING There is another noise and Shrek turns to find the person that 
+DELAY 1 	
+ENTER	
+STRING made the noise. He sees several shadows moving. He finally turns 
+DELAY 1 	
+ENTER	
+STRING and spots 3 blind mice on his table.
+DELAY 1 	
+ENTER	
+STRING BLIND MOUSE1
+DELAY 1 	
+ENTER	
+STRING Well, gents, it's a far cry from the 
+DELAY 1 	
+ENTER	
+STRING farm, but what choice do we have?
+DELAY 1 	
+ENTER	
+STRING BLIND MOUSE2
+DELAY 1 	
+ENTER	
+STRING It's not home, but it'll do just fine.
+DELAY 1 	
+ENTER	
+STRING GORDO
+DELAY 1 	
+ENTER	
+STRING (bouncing on a slug) What a lovely bed.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Got ya. (Grabs a mouse, but it escapes 
+DELAY 1 	
+ENTER	
+STRING and lands on his shoulder.)
+DELAY 1 	
+ENTER	
+STRING GORDO
+DELAY 1 	
+ENTER	
+STRING I found some cheese. (bites Shrek's 
+DELAY 1 	
+ENTER	
+STRING ear)
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Ow!
+DELAY 1 	
+ENTER	
+STRING GORDO
+DELAY 1 	
+ENTER	
+STRING Blah! Awful stuff.
+DELAY 1 	
+ENTER	
+STRING BLIND MOUSE1
+DELAY 1 	
+ENTER	
+STRING Is that you, Gordo?
+DELAY 1 	
+ENTER	
+STRING GORDO
+DELAY 1 	
+ENTER	
+STRING How did you know?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Enough! (he grabs the 3 mice) What are 
+DELAY 1 	
+ENTER	
+STRING you doing in my house? (He gets bumped 
+DELAY 1 	
+ENTER	
+STRING from behind and he drops the mice.) 
+DELAY 1 	
+ENTER	
+STRING Hey! (he turns and sees the Seven Dwarves 
+DELAY 1 	
+ENTER	
+STRING with Snow White on the table.) Oh, no, 
+DELAY 1 	
+ENTER	
+STRING no, no. Dead broad off the table.
+DELAY 1 	
+ENTER	
+STRING DWARF
+DELAY 1 	
+ENTER	
+STRING Where are we supposed to put her? The 
+DELAY 1 	
+ENTER	
+STRING bed's taken.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Huh?
+DELAY 1 	
+ENTER	
+STRING Shrek marches over to the bedroom and throws back the curtain. 
+DELAY 1 	
+ENTER	
+STRING The Big Bad Wolf is sitting in the bed. The wolf just looks at 
+DELAY 1 	
+ENTER	
+STRING him.
+DELAY 1 	
+ENTER	
+STRING BIG BAD WOLF
+DELAY 1 	
+ENTER	
+STRING What?
+DELAY 1 	
+ENTER	
+STRING TIME LAPSE
+DELAY 1 	
+ENTER	
+STRING Shrek now has the Big Bad Wolf by the collar and is dragging 
+DELAY 1 	
+ENTER	
+STRING him to the front door.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING I live in a swamp. I put up signs. I'm 
+DELAY 1 	
+ENTER	
+STRING a terrifying ogre! What do I have to 
+DELAY 1 	
+ENTER	
+STRING do get a little privacy? (He opens the 
+DELAY 1 	
+ENTER	
+STRING front door to throw the Wolf out and 
+DELAY 1 	
+ENTER	
+STRING he sees that all the collected Fairy 
+DELAY 1 	
+ENTER	
+STRING Tale Creatures are on his land.) Oh, 
+DELAY 1 	
+ENTER	
+STRING no. No! No!
+DELAY 1 	
+ENTER	
+STRING The 3 bears sit around the fire, the pied piper is playing his 
+DELAY 1 	
+ENTER	
+STRING pipe and the rats are all running to him, some elves are directing 
+DELAY 1 	
+ENTER	
+STRING flight traffic so that the fairies and witches can land...etc.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING What are you doing in my swamp? (this 
+DELAY 1 	
+ENTER	
+STRING echoes and everyone falls silent.)
+DELAY 1 	
+ENTER	
+STRING Gasps are heard all around. The 3 good fairies hide inside a 
+DELAY 1 	
+ENTER	
+STRING tent.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING All right, get out of here. All of you, 
+DELAY 1 	
+ENTER	
+STRING move it! Come on! Let's go! Hapaya! 
+DELAY 1 	
+ENTER	
+STRING Hapaya! Hey! Quickly. Come on! (more 
+DELAY 1 	
+ENTER	
+STRING dwarves run inside the house) No, no! 
+DELAY 1 	
+ENTER	
+STRING No, no. Not there. Not there. (they 
+DELAY 1 	
+ENTER	
+STRING shut the door on him) Oh! (turns to 
+DELAY 1 	
+ENTER	
+STRING look at Donkey)
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Hey, don't look at me. I didn't invite 
+DELAY 1 	
+ENTER	
+STRING them.
+DELAY 1 	
+ENTER	
+STRING PINOCCHIO
+DELAY 1 	
+ENTER	
+STRING Oh, gosh, no one invited us.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING What?
+DELAY 1 	
+ENTER	
+STRING PINOCCHIO
+DELAY 1 	
+ENTER	
+STRING We were forced to come here.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING (flabbergasted) By who?
+DELAY 1 	
+ENTER	
+STRING LITTLE PIG
+DELAY 1 	
+ENTER	
+STRING Lord Farquaad. He huffed and he puffed 
+DELAY 1 	
+ENTER	
+STRING and he...signed an eviction notice.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING (heavy sigh) All right. Who knows where 
+DELAY 1 	
+ENTER	
+STRING this Farquaad guy is?
+DELAY 1 	
+ENTER	
+STRING Everyone looks around at each other but no one answers.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Oh, I do. I know where he is.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Does anyone else know where to find 
+DELAY 1 	
+ENTER	
+STRING him? Anyone at all?
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Me! Me!
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Anyone?
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Oh! Oh, pick me! Oh, I know! I know! 
+DELAY 1 	
+ENTER	
+STRING Me, me!
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING (sigh) Okay, fine. Attention, all fairy 
+DELAY 1 	
+ENTER	
+STRING tale things. Do not get comfortable. 
+DELAY 1 	
+ENTER	
+STRING Your welcome is officially worn out. 
+DELAY 1 	
+ENTER	
+STRING In fact, I'm gonna see this guy Farquaad 
+DELAY 1 	
+ENTER	
+STRING right now and get you all off my land 
+DELAY 1 	
+ENTER	
+STRING and back where you came from! (Pause. 
+DELAY 1 	
+ENTER	
+STRING Then the crowd goes wild.) Oh! (to Donkey) 
+DELAY 1 	
+ENTER	
+STRING You! You're comin' with me.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING All right, that's what I like to hear, 
+DELAY 1 	
+ENTER	
+STRING man. Shrek and Donkey, two stalwart 
+DELAY 1 	
+ENTER	
+STRING friends, off on a whirlwind big-city 
+DELAY 1 	
+ENTER	
+STRING adventure. I love it!
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING (singing) On the road again. Sing it 
+DELAY 1 	
+ENTER	
+STRING with me, Shrek. I can't wait to get 
+DELAY 1 	
+ENTER	
+STRING on the road again.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING What did I say about singing?
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Can I whistle?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING No.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Can I hum it?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING All right, hum it.
+DELAY 1 	
+ENTER	
+STRING Donkey begins to hum 'On the Road Again'.
+DELAY 1 	
+ENTER	
+STRING DULOC - KITCHEN
+DELAY 1 	
+ENTER	
+STRING A masked man is torturing the Gingerbread Man. He's continually 
+DELAY 1 	
+ENTER	
+STRING dunking him in a glass of milk. Lord Farquaad walks in.
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING That's enough. He's ready to talk.
+DELAY 1 	
+ENTER	
+STRING The Gingerbread Man is pulled out of the milk and slammed down 
+DELAY 1 	
+ENTER	
+STRING onto a cookie sheet. Farquaad laughs as he walks over to the 
+DELAY 1 	
+ENTER	
+STRING table. However when he reaches the table we see that it goes 
+DELAY 1 	
+ENTER	
+STRING up to his eyes. He clears his throat and the table is lowered.
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING (he picks up the Gingerbread Man's legs 
+DELAY 1 	
+ENTER	
+STRING and plays with them) Run, run, run, 
+DELAY 1 	
+ENTER	
+STRING as fast as you can. You can't catch 
+DELAY 1 	
+ENTER	
+STRING me. I'm the gingerbread man.
+DELAY 1 	
+ENTER	
+STRING GINGERBREAD MAN
+DELAY 1 	
+ENTER	
+STRING You are a monster.
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING I'm not the monster here. You are. You 
+DELAY 1 	
+ENTER	
+STRING and the rest of that fairy tale trash, 
+DELAY 1 	
+ENTER	
+STRING poisoning my perfect world. Now, tell 
+DELAY 1 	
+ENTER	
+STRING me! Where are the others?
+DELAY 1 	
+ENTER	
+STRING GINGERBREAD MAN
+DELAY 1 	
+ENTER	
+STRING Eat me! (He spits milk into Farquaad's 
+DELAY 1 	
+ENTER	
+STRING eye.)
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING I've tried to be fair to you creatures. 
+DELAY 1 	
+ENTER	
+STRING Now my patience has reached its end! 
+DELAY 1 	
+ENTER	
+STRING Tell me or I'll...(he makes as if to 
+DELAY 1 	
+ENTER	
+STRING pull off the Gingerbread Man's buttons)
+DELAY 1 	
+ENTER	
+STRING GINGERBREAD MAN
+DELAY 1 	
+ENTER	
+STRING No, no, not the buttons. Not my gumdrop 
+DELAY 1 	
+ENTER	
+STRING buttons.
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING All right then. Who's hiding them?
+DELAY 1 	
+ENTER	
+STRING GINGERBREAD MAN
+DELAY 1 	
+ENTER	
+STRING Okay, I'll tell you. Do you know the 
+DELAY 1 	
+ENTER	
+STRING muffin man?
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING The muffin man?
+DELAY 1 	
+ENTER	
+STRING GINGERBREAD MAN
+DELAY 1 	
+ENTER	
+STRING The muffin man.
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING Yes, I know the muffin man, who lives 
+DELAY 1 	
+ENTER	
+STRING on Drury Lane?
+DELAY 1 	
+ENTER	
+STRING GINGERBREAD MAN
+DELAY 1 	
+ENTER	
+STRING Well, she's married to the muffin man.
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING The muffin man?
+DELAY 1 	
+ENTER	
+STRING GINGERBREAD MAN
+DELAY 1 	
+ENTER	
+STRING The muffin man!
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING She's married to the muffin man.
+DELAY 1 	
+ENTER	
+STRING The door opens and the Head Guard walks in.
+DELAY 1 	
+ENTER	
+STRING HEAD GUARD
+DELAY 1 	
+ENTER	
+STRING My lord! We found it.
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING Then what are you waiting for? Bring 
+DELAY 1 	
+ENTER	
+STRING it in.
+DELAY 1 	
+ENTER	
+STRING More guards enter carrying something that is covered by a sheet. 
+DELAY 1 	
+ENTER	
+STRING They hang up whatever it is and remove the sheet. It is the Magic 
+DELAY 1 	
+ENTER	
+STRING Mirror.
+DELAY 1 	
+ENTER	
+STRING GINGERBREAD MAN
+DELAY 1 	
+ENTER	
+STRING (in awe) Ohhhh...
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING Magic mirror...
+DELAY 1 	
+ENTER	
+STRING GINGERBREAD MAN
+DELAY 1 	
+ENTER	
+STRING Don't tell him anything! (Farquaad picks 
+DELAY 1 	
+ENTER	
+STRING him up and dumps him into a trash can 
+DELAY 1 	
+ENTER	
+STRING with a lid.) No!
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING Evening. Mirror, mirror on the wall. 
+DELAY 1 	
+ENTER	
+STRING Is this not the most perfect kingdom 
+DELAY 1 	
+ENTER	
+STRING of them all?
+DELAY 1 	
+ENTER	
+STRING MIRROR
+DELAY 1 	
+ENTER	
+STRING Well, technically you're not a king.
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING Uh, Thelonius. (Thelonius holds up a 
+DELAY 1 	
+ENTER	
+STRING hand mirror and smashes it with his 
+DELAY 1 	
+ENTER	
+STRING fist.) You were saying?
+DELAY 1 	
+ENTER	
+STRING MIRROR
+DELAY 1 	
+ENTER	
+STRING What I mean is you're not a king yet. 
+DELAY 1 	
+ENTER	
+STRING But you can become one. All you have 
+DELAY 1 	
+ENTER	
+STRING to do is marry a princess.
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING Go on.
+DELAY 1 	
+ENTER	
+STRING MIRROR
+DELAY 1 	
+ENTER	
+STRING (chuckles nervously) So, just sit back 
+DELAY 1 	
+ENTER	
+STRING and relax, my lord, because it's time 
+DELAY 1 	
+ENTER	
+STRING for you to meet today's eligible bachelorettes. 
+DELAY 1 	
+ENTER	
+STRING And here they are! Bachelorette number 
+DELAY 1 	
+ENTER	
+STRING one is a mentally abused shut-in from 
+DELAY 1 	
+ENTER	
+STRING a kingdom far, far away. She likes sushi 
+DELAY 1 	
+ENTER	
+STRING and hot tubbing anytime. Her hobbies 
+DELAY 1 	
+ENTER	
+STRING include cooking and cleaning for her 
+DELAY 1 	
+ENTER	
+STRING two evil sisters. Please welcome Cinderella. 
+DELAY 1 	
+ENTER	
+STRING (shows picture of Cinderella) Bachelorette 
+DELAY 1 	
+ENTER	
+STRING number two is a cape-wearing girl from 
+DELAY 1 	
+ENTER	
+STRING the land of fancy. Although she lives 
+DELAY 1 	
+ENTER	
+STRING with seven other men, she's not easy. 
+DELAY 1 	
+ENTER	
+STRING Just kiss her dead, frozen lips and 
+DELAY 1 	
+ENTER	
+STRING find out what a live wire she is. Come 
+DELAY 1 	
+ENTER	
+STRING on. Give it up for Snow White! (shows 
+DELAY 1 	
+ENTER	
+STRING picture of Snow White) And last, but 
+DELAY 1 	
+ENTER	
+STRING certainly not last, bachelorette number 
+DELAY 1 	
+ENTER	
+STRING three is a fiery redhead from a dragon-guarded 
+DELAY 1 	
+ENTER	
+STRING castle surrounded by hot boiling lava! 
+DELAY 1 	
+ENTER	
+STRING But don't let that cool you off. She's 
+DELAY 1 	
+ENTER	
+STRING a loaded pistol who likes pina colads 
+DELAY 1 	
+ENTER	
+STRING and getting caught in the rain. Yours 
+DELAY 1 	
+ENTER	
+STRING for the rescuing, Princess Fiona! (Shows 
+DELAY 1 	
+ENTER	
+STRING picture of Princess Fiona) So will it 
+DELAY 1 	
+ENTER	
+STRING be bachelorette number one, bachelorette 
+DELAY 1 	
+ENTER	
+STRING number two or bachelorette number three?
+DELAY 1 	
+ENTER	
+STRING GUARDS
+DELAY 1 	
+ENTER	
+STRING Two! Two! Three! Three! Two! Two! Three!
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING Three? One? Three?
+DELAY 1 	
+ENTER	
+STRING THELONIUS
+DELAY 1 	
+ENTER	
+STRING Three! (holds up 2 fingers) Pick number 
+DELAY 1 	
+ENTER	
+STRING three, my lord!
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING Okay, okay, uh, number three!
+DELAY 1 	
+ENTER	
+STRING MIRROR
+DELAY 1 	
+ENTER	
+STRING Lord Farquaad, you've chosen Princess 
+DELAY 1 	
+ENTER	
+STRING Fiona.
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING Princess Fiona. She's perfect. All I 
+DELAY 1 	
+ENTER	
+STRING have to do is just find someone who 
+DELAY 1 	
+ENTER	
+STRING can go...
+DELAY 1 	
+ENTER	
+STRING MIRROR
+DELAY 1 	
+ENTER	
+STRING But I probably should mention the little 
+DELAY 1 	
+ENTER	
+STRING thing that happens at night.
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING I'll do it.
+DELAY 1 	
+ENTER	
+STRING MIRROR
+DELAY 1 	
+ENTER	
+STRING Yes, but after sunset...
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING Silence! I will make this Princess Fiona 
+DELAY 1 	
+ENTER	
+STRING my queen, and DuLoc will finally have 
+DELAY 1 	
+ENTER	
+STRING the perfect king! Captain, assemble 
+DELAY 1 	
+ENTER	
+STRING your finest men. We're going to have 
+DELAY 1 	
+ENTER	
+STRING a tournament. (smiles evilly)
+DELAY 1 	
+ENTER	
+STRING DuLoc Parking Lot - Lancelot Section
+DELAY 1 	
+ENTER	
+STRING Shrek and Donkey come out of the field that is right by the parking 
+DELAY 1 	
+ENTER	
+STRING lot. The castle itself is about 40 stories high.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING But that's it. That's it right there. 
+DELAY 1 	
+ENTER	
+STRING That's DuLoc. I told ya I'd find it.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING So, that must be Lord Farquaad's castle.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Uh-huh. That's the place.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Do you think maybe he's compensating 
+DELAY 1 	
+ENTER	
+STRING for something? (He laughs, but then 
+DELAY 1 	
+ENTER	
+STRING groans as Donkey doesn't get the joke. 
+DELAY 1 	
+ENTER	
+STRING He continues walking through the parking 
+DELAY 1 	
+ENTER	
+STRING lot.)
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Hey, wait. Wait up, Shrek.
+DELAY 1 	
+ENTER	
+STRING MAN
+DELAY 1 	
+ENTER	
+STRING Hurry, darling. We're late. Hurry.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Hey, you! (The attendant, who is wearing 
+DELAY 1 	
+ENTER	
+STRING a giant head that looks like Lord Farquaad, 
+DELAY 1 	
+ENTER	
+STRING screams and begins running through the 
+DELAY 1 	
+ENTER	
+STRING rows of rope to get to the front gate 
+DELAY 1 	
+ENTER	
+STRING to get away from Shrek.) Wait a second. 
+DELAY 1 	
+ENTER	
+STRING Look, I'm not gonna eat you. I just 
+DELAY 1 	
+ENTER	
+STRING - - I just - - (He sighs and then begins 
+DELAY 1 	
+ENTER	
+STRING walking straight through the rows. The 
+DELAY 1 	
+ENTER	
+STRING attendant runs into a wall and falls 
+DELAY 1 	
+ENTER	
+STRING down. Shrek and Donkey look at him then 
+DELAY 1 	
+ENTER	
+STRING continue on into DuLoc.)
+DELAY 1 	
+ENTER	
+STRING DULOC
+DELAY 1 	
+ENTER	
+STRING They look around but all is quiet.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING It's quiet. Too quiet. Where is everybody?
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Hey, look at this!
+DELAY 1 	
+ENTER	
+STRING Donkey runs over and pulls a lever that is attached to a box 
+DELAY 1 	
+ENTER	
+STRING marked 'Information'. The music winds up and then the box doors 
+DELAY 1 	
+ENTER	
+STRING open up. There are little wooden people inside and they begin 
+DELAY 1 	
+ENTER	
+STRING to sing.
+DELAY 1 	
+ENTER	
+STRING WOODEN PEOPLE
+DELAY 1 	
+ENTER	
+STRING Welcome to DuLoc such a perfect town
+DELAY 1 	
+ENTER	
+STRING Here we have some rules
+DELAY 1 	
+ENTER	
+STRING Let us lay them down
+DELAY 1 	
+ENTER	
+STRING Don't make waves, stay in line
+DELAY 1 	
+ENTER	
+STRING And we'll get along fine
+DELAY 1 	
+ENTER	
+STRING DuLoc is perfect place
+DELAY 1 	
+ENTER	
+STRING Please keep off of the grass
+DELAY 1 	
+ENTER	
+STRING Shine your shoes, wipe your... face
+DELAY 1 	
+ENTER	
+STRING DuLoc is, DuLoc is
+DELAY 1 	
+ENTER	
+STRING DuLoc is perfect place.
+DELAY 1 	
+ENTER	
+STRING Suddenly a camera takes Donkey and Shrek's picture.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Wow! Let's do that again! (makes ready 
+DELAY 1 	
+ENTER	
+STRING to run over and pull the lever again)
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING (grabs Donkey's tail and holds him still) 
+DELAY 1 	
+ENTER	
+STRING No. No. No, no, no! No.
+DELAY 1 	
+ENTER	
+STRING They hear a trumpet fanfare and head over to the arena.
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING Brave knights. You are the best and 
+DELAY 1 	
+ENTER	
+STRING brightest in all the land. Today one 
+DELAY 1 	
+ENTER	
+STRING of you shall prove himself...
+DELAY 1 	
+ENTER	
+STRING As Shrek and Donkey walk down the tunnel to get into the arena 
+DELAY 1 	
+ENTER	
+STRING Donkey is humming the DuLoc theme song.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING All right. You're going the right way 
+DELAY 1 	
+ENTER	
+STRING for a smacked bottom.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Sorry about that.
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING That champion shall have the honor - 
+DELAY 1 	
+ENTER	
+STRING - no, no - - the privilege to go forth 
+DELAY 1 	
+ENTER	
+STRING and rescue the lovely Princess Fiona 
+DELAY 1 	
+ENTER	
+STRING from the fiery keep of the dragon. If 
+DELAY 1 	
+ENTER	
+STRING for any reason the winner is unsuccessful, 
+DELAY 1 	
+ENTER	
+STRING the first runner-up will take his place 
+DELAY 1 	
+ENTER	
+STRING and so on and so forth. Some of you 
+DELAY 1 	
+ENTER	
+STRING may die, but it's a sacrifice I am willing 
+DELAY 1 	
+ENTER	
+STRING to make. (cheers) Let the tournament 
+DELAY 1 	
+ENTER	
+STRING begin! (He notices Shrek) Oh! What is 
+DELAY 1 	
+ENTER	
+STRING that? It's hideous!
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING (turns to look at Donkey and then back 
+DELAY 1 	
+ENTER	
+STRING at Farquaad) Ah, that's not very nice. 
+DELAY 1 	
+ENTER	
+STRING It's just a donkey.
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING Indeed. Knights, new plan! The one who 
+DELAY 1 	
+ENTER	
+STRING kills the ogre will be named champion! 
+DELAY 1 	
+ENTER	
+STRING Have it him!
+DELAY 1 	
+ENTER	
+STRING MEN
+DELAY 1 	
+ENTER	
+STRING Get him!
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Oh, hey! Now come on! Hang on now. (bumps 
+DELAY 1 	
+ENTER	
+STRING into a table where there are mugs of 
+DELAY 1 	
+ENTER	
+STRING beer)
+DELAY 1 	
+ENTER	
+STRING CROWD
+DELAY 1 	
+ENTER	
+STRING Go ahead! Get him!
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING (holds up a mug of beer) Can't we just 
+DELAY 1 	
+ENTER	
+STRING settle this over a pint?
+DELAY 1 	
+ENTER	
+STRING CROWD
+DELAY 1 	
+ENTER	
+STRING Kill the beast!
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING No? All right then. (drinks the beer) 
+DELAY 1 	
+ENTER	
+STRING Come on!
+DELAY 1 	
+ENTER	
+STRING He takes the mug and smashes the spigot off the large barrel 
+DELAY 1 	
+ENTER	
+STRING of beer behind him. The beer comes rushing out drenching the 
+DELAY 1 	
+ENTER	
+STRING other men and wetting the ground. It's like mud now. Shrek slides 
+DELAY 1 	
+ENTER	
+STRING past the men and picks up a spear that one of the men dropped. 
+DELAY 1 	
+ENTER	
+STRING As Shrek begins to fight Donkey hops up onto one of the larger 
+DELAY 1 	
+ENTER	
+STRING beer barrels. It breaks free of it's ropes and begins to roll. 
+DELAY 1 	
+ENTER	
+STRING Donkey manages to squish two men into the mud. There is so much 
+DELAY 1 	
+ENTER	
+STRING fighting going on here I'm not going to go into detail. Suffice 
+DELAY 1 	
+ENTER	
+STRING to say that Shrek kicks butt.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Hey, Shrek, tag me! Tag me!
+DELAY 1 	
+ENTER	
+STRING Shrek comes over and bangs a man's head up against Donkeys. Shrek 
+DELAY 1 	
+ENTER	
+STRING gets up on the ropes and interacts with the crowd.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Yeah!
+DELAY 1 	
+ENTER	
+STRING A man tries to sneak up behind Shrek, but Shrek turns in time 
+DELAY 1 	
+ENTER	
+STRING and sees him.
+DELAY 1 	
+ENTER	
+STRING WOMAN
+DELAY 1 	
+ENTER	
+STRING The chair! Give him the chair!
+DELAY 1 	
+ENTER	
+STRING Shrek smashes a chair over the guys back. Finally all the men 
+DELAY 1 	
+ENTER	
+STRING are down. Donkey kicks one of them in the helmet, and the ding 
+DELAY 1 	
+ENTER	
+STRING sounds the end of the match. The audience goes wild.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Oh, yeah! Ah! Ah! Thank you! Thank you 
+DELAY 1 	
+ENTER	
+STRING very much! I'm here till Thursday. Try 
+DELAY 1 	
+ENTER	
+STRING the veal! Ha, ha! (laughs)
+DELAY 1 	
+ENTER	
+STRING The laughter stops as all of the guards turn their weapons on 
+DELAY 1 	
+ENTER	
+STRING Shrek.
+DELAY 1 	
+ENTER	
+STRING HEAD GUARD
+DELAY 1 	
+ENTER	
+STRING Shall I give the order, sir?
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING No, I have a better idea. People of 
+DELAY 1 	
+ENTER	
+STRING DuLoc, I give you our champion!
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING What?
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING Congratulations, ogre. You're won the 
+DELAY 1 	
+ENTER	
+STRING honor of embarking on a great and noble 
+DELAY 1 	
+ENTER	
+STRING quest.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Quest? I'm already in a quest, a quest 
+DELAY 1 	
+ENTER	
+STRING to get my swamp back.
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING Your swamp?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Yeah, my swamp! Where you dumped those 
+DELAY 1 	
+ENTER	
+STRING fairy tale creatures!
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING Indeed. All right, ogre. I'll make you 
+DELAY 1 	
+ENTER	
+STRING a deal. Go on this quest for me, and 
+DELAY 1 	
+ENTER	
+STRING I'll give you your swamp back.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Exactly the way it was?
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING Down to the last slime-covered toadstool.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING And the squatters?
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING As good as gone.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING What kind of quest?
+DELAY 1 	
+ENTER	
+STRING Time Lapse - Donkey and Shrek are now walking through the field 
+DELAY 1 	
+ENTER	
+STRING heading away from DuLoc. Shrek is munching on an onion.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Let me get this straight. You're gonna 
+DELAY 1 	
+ENTER	
+STRING go fight a dragon and rescue a princess 
+DELAY 1 	
+ENTER	
+STRING just so Farquaad will give you back 
+DELAY 1 	
+ENTER	
+STRING a swamp which you only don't have because 
+DELAY 1 	
+ENTER	
+STRING he filled it full of freaks in the first 
+DELAY 1 	
+ENTER	
+STRING place. Is that about right?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING You know, maybe there's a good reason 
+DELAY 1 	
+ENTER	
+STRING donkeys shouldn't talk.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING I don't get it. Why don't you just pull 
+DELAY 1 	
+ENTER	
+STRING some of that ogre stuff on him? Throttle 
+DELAY 1 	
+ENTER	
+STRING him, lay siege to his fortress, grinds 
+DELAY 1 	
+ENTER	
+STRING his bones to make your bread, the whole 
+DELAY 1 	
+ENTER	
+STRING ogre trip.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Oh, I know what. Maybe I could have 
+DELAY 1 	
+ENTER	
+STRING decapitated an entire village and put 
+DELAY 1 	
+ENTER	
+STRING their heads on a pike, gotten a knife, 
+DELAY 1 	
+ENTER	
+STRING cut open their spleen and drink their 
+DELAY 1 	
+ENTER	
+STRING fluids. Does that sound good to you?
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Uh, no, not really, no.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING For your information, there's a lot 
+DELAY 1 	
+ENTER	
+STRING more to ogres than people think.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Example?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Example? Okay, um, ogres are like onions. 
+DELAY 1 	
+ENTER	
+STRING (he holds out his onion)
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING (sniffs the onion) They stink?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Yes - - No!
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING They make you cry?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING No!
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING You leave them in the sun, they get 
+DELAY 1 	
+ENTER	
+STRING all brown, start sproutin' little white 
+DELAY 1 	
+ENTER	
+STRING hairs.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING No! Layers! Onions have layers. Ogres 
+DELAY 1 	
+ENTER	
+STRING have layers! Onions have layers. You 
+DELAY 1 	
+ENTER	
+STRING get it? We both have layers. (he heaves 
+DELAY 1 	
+ENTER	
+STRING a sigh and then walks off)
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING (trailing after Shrek) Oh, you both 
+DELAY 1 	
+ENTER	
+STRING have layers. Oh. {Sniffs} You know, 
+DELAY 1 	
+ENTER	
+STRING not everybody likes onions. Cake! Everybody 
+DELAY 1 	
+ENTER	
+STRING loves cakes! Cakes have layers.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING I don't care... what everyone likes. 
+DELAY 1 	
+ENTER	
+STRING Ogres are not like cakes.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING You know what else everybody likes? 
+DELAY 1 	
+ENTER	
+STRING Parfaits. Have you ever met a person, 
+DELAY 1 	
+ENTER	
+STRING you say, "Let's get some parfait," they 
+DELAY 1 	
+ENTER	
+STRING say, "Hell no, I don't like no parfait"? 
+DELAY 1 	
+ENTER	
+STRING Parfaits are delicious.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING No! You dense, irritating, miniature 
+DELAY 1 	
+ENTER	
+STRING beast of burden! Ogres are like onions! 
+DELAY 1 	
+ENTER	
+STRING And of story. Bye-bye. See ya later.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Parfaits may be the most delicious thing 
+DELAY 1 	
+ENTER	
+STRING on the whole damn planet.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING You know, I think I preferred your humming.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Do you have a tissue or something? I'm 
+DELAY 1 	
+ENTER	
+STRING making a mess. Just the word parfait 
+DELAY 1 	
+ENTER	
+STRING make me start slobbering.
+DELAY 1 	
+ENTER	
+STRING They head off. There is a montage of their journey. Walking through 
+DELAY 1 	
+ENTER	
+STRING a field at sunset. Sleeping beneath a bright moon. Shrek trying 
+DELAY 1 	
+ENTER	
+STRING to put the campfire out the next day and having a bit of a problem, 
+DELAY 1 	
+ENTER	
+STRING so Donkey pees on the fire to put it out.
+DELAY 1 	
+ENTER	
+STRING DRAGON'S KEEP
+DELAY 1 	
+ENTER	
+STRING Shrek and Donkey are walking up to the keep that's supposed to 
+DELAY 1 	
+ENTER	
+STRING house Princess Fiona. It appears to look like a giant volcano.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING (sniffs) Ohh! Shrek! Did you do that? 
+DELAY 1 	
+ENTER	
+STRING You gotta warn somebody before you just 
+DELAY 1 	
+ENTER	
+STRING crack one off. My mouth was open and 
+DELAY 1 	
+ENTER	
+STRING everything.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Believe me, Donkey, if it was me, you'd 
+DELAY 1 	
+ENTER	
+STRING be dead. (sniffs) It's brimstone. We 
+DELAY 1 	
+ENTER	
+STRING must be getting close.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Yeah, right, brimstone. Don't be talking 
+DELAY 1 	
+ENTER	
+STRING about it's the brimstone. I know what 
+DELAY 1 	
+ENTER	
+STRING I smell. It wasn't no brimstone. It 
+DELAY 1 	
+ENTER	
+STRING didn't come off no stone neither.
+DELAY 1 	
+ENTER	
+STRING They climb up the side of the volcano/keep and look down. There 
+DELAY 1 	
+ENTER	
+STRING is a small piece of rock right in the center and that is where 
+DELAY 1 	
+ENTER	
+STRING the castle is. It is surrounded by boiling lava. It looks very 
+DELAY 1 	
+ENTER	
+STRING foreboding.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Sure, it's big enough, but look at the 
+DELAY 1 	
+ENTER	
+STRING location. (laughs...then the laugh turns 
+DELAY 1 	
+ENTER	
+STRING into a groan)
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Uh, Shrek? Uh, remember when you said 
+DELAY 1 	
+ENTER	
+STRING ogres have layers?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Oh, aye.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Well, I have a bit of a confession to 
+DELAY 1 	
+ENTER	
+STRING make. Donkeys don't have layers. We 
+DELAY 1 	
+ENTER	
+STRING wear our fear right out there on our 
+DELAY 1 	
+ENTER	
+STRING sleeves.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Wait a second. Donkeys don't have sleeves.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING You know what I mean.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING You can't tell me you're afraid of heights.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING No, I'm just a little uncomfortable 
+DELAY 1 	
+ENTER	
+STRING about being on a rickety bridge over 
+DELAY 1 	
+ENTER	
+STRING a boiling like of lava!
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Come on, Donkey. I'm right here beside 
+DELAY 1 	
+ENTER	
+STRING ya, okay? For emotional support., we'll 
+DELAY 1 	
+ENTER	
+STRING just tackle this thing together one 
+DELAY 1 	
+ENTER	
+STRING little baby step at a time.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Really?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Really, really.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Okay, that makes me feel so much better.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Just keep moving. And don't look down.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Okay, don't look down. Don't look down. 
+DELAY 1 	
+ENTER	
+STRING Don't look down. Keep on moving. Don't 
+DELAY 1 	
+ENTER	
+STRING look down. (he steps through a rotting 
+DELAY 1 	
+ENTER	
+STRING board and ends up looking straight down 
+DELAY 1 	
+ENTER	
+STRING into the lava) Shrek! I'm lookin' down! 
+DELAY 1 	
+ENTER	
+STRING Oh, God, I can't do this! Just let me 
+DELAY 1 	
+ENTER	
+STRING off, please!
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING But you're already halfway.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING But I know that half is safe!
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Okay, fine. I don't have time for this. 
+DELAY 1 	
+ENTER	
+STRING You go back.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Shrek, no! Wait!
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Just, Donkey - - Let's have a dance 
+DELAY 1 	
+ENTER	
+STRING then, shall me? (bounces and sways the 
+DELAY 1 	
+ENTER	
+STRING bridge)
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Don't do that!
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Oh, I'm sorry. Do what? Oh, this? (bounces 
+DELAY 1 	
+ENTER	
+STRING the bridge again)
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Yes, that!
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Yes? Yes, do it. Okay. (continues to 
+DELAY 1 	
+ENTER	
+STRING bounce and sway as he backs Donkey across 
+DELAY 1 	
+ENTER	
+STRING the bridge)
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING No, Shrek! No! Stop it!
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING You said do it! I'm doin' it.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING I'm gonna die. I'm gonna die. Shrek, 
+DELAY 1 	
+ENTER	
+STRING I'm gonna die. (steps onto solid ground) 
+DELAY 1 	
+ENTER	
+STRING Oh!
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING That'll do, Donkey. That'll do. (walks 
+DELAY 1 	
+ENTER	
+STRING towards the castle)
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Cool. So where is this fire-breathing 
+DELAY 1 	
+ENTER	
+STRING pain-in-the-neck anyway?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Inside, waiting for us to rescue her. 
+DELAY 1 	
+ENTER	
+STRING (chuckles)
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING I was talkin' about the dragon, Shrek.
+DELAY 1 	
+ENTER	
+STRING INSIDE THE CASTLE
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING You afraid?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING No.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING But...
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Shh.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Oh, good. Me neither. (sees a skeleton 
+DELAY 1 	
+ENTER	
+STRING and gasps) 'Cause there's nothin' wrong 
+DELAY 1 	
+ENTER	
+STRING with bein' afraid. Fear's a sensible 
+DELAY 1 	
+ENTER	
+STRING response to an unfamiliar situation. 
+DELAY 1 	
+ENTER	
+STRING Unfamiliar dangerous situation, I might 
+DELAY 1 	
+ENTER	
+STRING add. With a dragon that breathes fire 
+DELAY 1 	
+ENTER	
+STRING and eats knights and breathes fire, 
+DELAY 1 	
+ENTER	
+STRING it sure doesn't mean you're a coward 
+DELAY 1 	
+ENTER	
+STRING if you're a little scared. I sure as 
+DELAY 1 	
+ENTER	
+STRING heck ain't no coward. I know that.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Donkey, two things, okay? Shut ... up. 
+DELAY 1 	
+ENTER	
+STRING Now go over there and see if you can 
+DELAY 1 	
+ENTER	
+STRING find any stairs.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Stairs? I thought we was lookin' for 
+DELAY 1 	
+ENTER	
+STRING the princess.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING (putting on a helmet) The princess will 
+DELAY 1 	
+ENTER	
+STRING be up the stairs in the highest room 
+DELAY 1 	
+ENTER	
+STRING in the tallest tower.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING What makes you think she'll be there?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING I read it in a book once. (walks off)
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Cool. You handle the dragon. I'll handle 
+DELAY 1 	
+ENTER	
+STRING the stairs. I'll find those stairs. 
+DELAY 1 	
+ENTER	
+STRING I'll whip their butt too. Those stairs 
+DELAY 1 	
+ENTER	
+STRING won't know which way they're goin'. 
+DELAY 1 	
+ENTER	
+STRING (walks off)
+DELAY 1 	
+ENTER	
+STRING EMPTY ROOM
+DELAY 1 	
+ENTER	
+STRING Donkey is still talking to himself as he looks around the room.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING I'm gonna take drastic steps. Kick it 
+DELAY 1 	
+ENTER	
+STRING to the curb. Don't mess with me. I'm 
+DELAY 1 	
+ENTER	
+STRING the stair master. I've mastered the 
+DELAY 1 	
+ENTER	
+STRING stairs. I wish I had a step right here. 
+DELAY 1 	
+ENTER	
+STRING I'd step all over it.
+DELAY 1 	
+ENTER	
+STRING ELSEWHERE
+DELAY 1 	
+ENTER	
+STRING Shrek spots a light in the tallest tower window.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Well, at least we know where the princess 
+DELAY 1 	
+ENTER	
+STRING is, but where's the...
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING (os) Dragon!
+DELAY 1 	
+ENTER	
+STRING Donkey gasps and takes off running as the dragon roars again. 
+DELAY 1 	
+ENTER	
+STRING Shrek manages to grab Donkey out of the way just as the dragon 
+DELAY 1 	
+ENTER	
+STRING breathes fire.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Donkey, look out! (he manages to get 
+DELAY 1 	
+ENTER	
+STRING a hold of the dragons tail and holds 
+DELAY 1 	
+ENTER	
+STRING on) Got ya!
+DELAY 1 	
+ENTER	
+STRING The dragon gets irritated at this and flicks it's tail and Shrek 
+DELAY 1 	
+ENTER	
+STRING goes flying through the air and crashes through the roof of the 
+DELAY 1 	
+ENTER	
+STRING tallest tower. Fiona wakes up with a jerk and looks at him lying 
+DELAY 1 	
+ENTER	
+STRING on the floor.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Oh! Aah! Aah!
+DELAY 1 	
+ENTER	
+STRING Donkey get cornered as the Dragon knocks away all but a small 
+DELAY 1 	
+ENTER	
+STRING part of the bridge he's on.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING No. Oh, no, No! (the dragon roars) Oh, 
+DELAY 1 	
+ENTER	
+STRING what large teeth you have. (the dragon 
+DELAY 1 	
+ENTER	
+STRING growls) I mean white, sparkling teeth. 
+DELAY 1 	
+ENTER	
+STRING I know you probably hear this all time 
+DELAY 1 	
+ENTER	
+STRING from your food, but you must bleach, 
+DELAY 1 	
+ENTER	
+STRING 'cause that is one dazzling smile you 
+DELAY 1 	
+ENTER	
+STRING got there. Do I detect a hint of minty 
+DELAY 1 	
+ENTER	
+STRING freshness? And you know what else? You're 
+DELAY 1 	
+ENTER	
+STRING - - You're a girl dragon! Oh, sure! 
+DELAY 1 	
+ENTER	
+STRING I mean, of course you're a girl dragon. 
+DELAY 1 	
+ENTER	
+STRING You're just reeking of feminine beauty. 
+DELAY 1 	
+ENTER	
+STRING (the dragon begins fluttering her eyes 
+DELAY 1 	
+ENTER	
+STRING at him) What's the matter with you? 
+DELAY 1 	
+ENTER	
+STRING You got something in your eye? Ohh. 
+DELAY 1 	
+ENTER	
+STRING Oh. Oh. Man, I'd really love to stay, 
+DELAY 1 	
+ENTER	
+STRING but you know, I'm, uh...(the dragon 
+DELAY 1 	
+ENTER	
+STRING blows a smoke ring in the shape of a 
+DELAY 1 	
+ENTER	
+STRING heart right at him, and he coughs) I'm 
+DELAY 1 	
+ENTER	
+STRING an asthmatic, and I don't know if it'd 
+DELAY 1 	
+ENTER	
+STRING work out if you're gonna blow smoke 
+DELAY 1 	
+ENTER	
+STRING rings. Shrek! (the dragon picks him 
+DELAY 1 	
+ENTER	
+STRING up with her teeth and carries him off) 
+DELAY 1 	
+ENTER	
+STRING No! Shrek! Shrek! Shrek!
+DELAY 1 	
+ENTER	
+STRING FIONA'S ROOM
+DELAY 1 	
+ENTER	
+STRING Shrek groans as he gets up off the floor. His back is to Fiona 
+DELAY 1 	
+ENTER	
+STRING so she straightens her dress and lays back down on the bed. She 
+DELAY 1 	
+ENTER	
+STRING then quickly reaches over and gets the bouquet of flowers off 
+DELAY 1 	
+ENTER	
+STRING the side table. She then lays back down and appears to be asleep. 
+DELAY 1 	
+ENTER	
+STRING Shrek turns and goes over to her. He looks down at Fiona for 
+DELAY 1 	
+ENTER	
+STRING a moment and she puckers her lips. Shrek takes her by the shoulders 
+DELAY 1 	
+ENTER	
+STRING and shakes her away.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Oh! Oh!
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Wake up!
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING What?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Are you Princess Fiona?
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING I am, awaiting a knight so bold as to 
+DELAY 1 	
+ENTER	
+STRING rescue me.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Oh, that's nice. Now let's go!
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING But wait, Sir Knight. This be-ith our 
+DELAY 1 	
+ENTER	
+STRING first meeting. Should it not be a wonderful, 
+DELAY 1 	
+ENTER	
+STRING romantic moment?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Yeah, sorry, lady. There's no time.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Hey, wait. What are you doing? You should 
+DELAY 1 	
+ENTER	
+STRING sweep me off my feet out yonder window 
+DELAY 1 	
+ENTER	
+STRING and down a rope onto your valiant steed.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING You've had a lot of time to plan this, 
+DELAY 1 	
+ENTER	
+STRING haven't you?
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING (smiles) Mm-hmm.
+DELAY 1 	
+ENTER	
+STRING Shrek breaks the lock on her door and pulls her out and down 
+DELAY 1 	
+ENTER	
+STRING the hallway.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING But we have to savor this moment! You 
+DELAY 1 	
+ENTER	
+STRING could recite an epic poem for me. A 
+DELAY 1 	
+ENTER	
+STRING ballad? A sonnet! A limerick? Or something!
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING I don't think so.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Can I at least know the name of my champion?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Uh, Shrek.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Sir Shrek. (clears throat and holds 
+DELAY 1 	
+ENTER	
+STRING out a handkerchief) I pray that you 
+DELAY 1 	
+ENTER	
+STRING take this favor as a token of my gratitude.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Thanks!
+DELAY 1 	
+ENTER	
+STRING Suddenly they hear the dragon roar.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING (surprised)You didn't slay the dragon?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING It's on my to-do list. Now come on! 
+DELAY 1 	
+ENTER	
+STRING (takes off running and drags Fiona behind 
+DELAY 1 	
+ENTER	
+STRING him.)
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING But this isn't right! You were meant 
+DELAY 1 	
+ENTER	
+STRING to charge in, sword drawn, banner flying. 
+DELAY 1 	
+ENTER	
+STRING That's what all the other knights did.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Yeah, right before they burst into flame.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING That's not the point. (Shrek suddenly 
+DELAY 1 	
+ENTER	
+STRING stops and she runs into him.) Oh! (Shrek 
+DELAY 1 	
+ENTER	
+STRING ignores her and heads for a wooden door 
+DELAY 1 	
+ENTER	
+STRING off to the side.) Wait. Where are you 
+DELAY 1 	
+ENTER	
+STRING going? The exit's over there.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Well, I have to save my ass.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING What kind of knight are you?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING One of a kind. (opens the door into 
+DELAY 1 	
+ENTER	
+STRING the throne room)
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING (os) Slow down. Slow down, baby, please. 
+DELAY 1 	
+ENTER	
+STRING I believe it's healthy to get to know 
+DELAY 1 	
+ENTER	
+STRING someone over a long period of time. 
+DELAY 1 	
+ENTER	
+STRING Just call me old-fashioned. (laughs 
+DELAY 1 	
+ENTER	
+STRING worriedly) (we see him up close and 
+DELAY 1 	
+ENTER	
+STRING from a distance as Shrek sneaks into 
+DELAY 1 	
+ENTER	
+STRING the room) I don't want to rush into 
+DELAY 1 	
+ENTER	
+STRING a physical relationship. I'm not emotionally 
+DELAY 1 	
+ENTER	
+STRING ready for a commitment of, uh, this 
+DELAY 1 	
+ENTER	
+STRING - - Magnitude really is the word I'm 
+DELAY 1 	
+ENTER	
+STRING looking for. Magnitude- - Hey, that 
+DELAY 1 	
+ENTER	
+STRING is unwanted physical contact. Hey, what 
+DELAY 1 	
+ENTER	
+STRING are you doing? Okay, okay. Let's just 
+DELAY 1 	
+ENTER	
+STRING back up a little and take this one step 
+DELAY 1 	
+ENTER	
+STRING at a time. We really should get to know 
+DELAY 1 	
+ENTER	
+STRING each other first as friends or pen pals. 
+DELAY 1 	
+ENTER	
+STRING I'm on the road a lot, but I just love 
+DELAY 1 	
+ENTER	
+STRING receiving cards - - I'd really love 
+DELAY 1 	
+ENTER	
+STRING to stay, but - - Don't do that! That's 
+DELAY 1 	
+ENTER	
+STRING my tail! That's my personal tail. You're 
+DELAY 1 	
+ENTER	
+STRING gonna tear it off. I don't give permission 
+DELAY 1 	
+ENTER	
+STRING #¿NOMBRE?
+DELAY 1 	
+ENTER	
+STRING Hey, now. No way. No! No! No, no! No. 
+DELAY 1 	
+ENTER	
+STRING No, no, no. No! Oh!
+DELAY 1 	
+ENTER	
+STRING Shrek grabs a chain that's connected to the chandelier and swings 
+DELAY 1 	
+ENTER	
+STRING toward the dragon. He misses and he swings back again. He looks 
+DELAY 1 	
+ENTER	
+STRING up and spots that the chandelier is right above the dragons head. 
+DELAY 1 	
+ENTER	
+STRING He pulls on the chain and it releases and he falls down and bumps 
+DELAY 1 	
+ENTER	
+STRING Donkey out of the way right as the dragon is about to kiss him. 
+DELAY 1 	
+ENTER	
+STRING Instead the dragon kisses Shreks' butt. She opens her eyes and 
+DELAY 1 	
+ENTER	
+STRING roars. Shrek lets go of the chain and the chandelier falls onto 
+DELAY 1 	
+ENTER	
+STRING her head, but it's too big and it goes over her head and forms 
+DELAY 1 	
+ENTER	
+STRING a sort of collar for her. She roars again and Shrek and Donkey 
+DELAY 1 	
+ENTER	
+STRING take off running. Very 'Matrix' style. Shrek grabs Donkey and 
+DELAY 1 	
+ENTER	
+STRING then grabs Princess Fiona as he runs past her.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Hi, Princess!
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING It talks!
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Yeah, it's getting him to shut up that's 
+DELAY 1 	
+ENTER	
+STRING the trick.
+DELAY 1 	
+ENTER	
+STRING They all start screaming as the dragon gains on them. Shrek spots 
+DELAY 1 	
+ENTER	
+STRING a descending slide and jumps on. But unfortunately there is a 
+DELAY 1 	
+ENTER	
+STRING crack in the stone and it hits Shrek right in the groin. His 
+DELAY 1 	
+ENTER	
+STRING eyes cross and as he reaches the bottom of the slide he stumbles 
+DELAY 1 	
+ENTER	
+STRING off and walks lightly.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Oh!
+DELAY 1 	
+ENTER	
+STRING Shrek gets them close to the exit and sets down Donkey and Fiona.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Okay, you two, heard for the exit! I'll 
+DELAY 1 	
+ENTER	
+STRING take care of the dragon.
+DELAY 1 	
+ENTER	
+STRING Shrek grabs a sword and heads back toward the interior of the 
+DELAY 1 	
+ENTER	
+STRING castle. He throws the sword down in between several overlapping 
+DELAY 1 	
+ENTER	
+STRING chain links. The chain links are attached to the chandelier that 
+DELAY 1 	
+ENTER	
+STRING is still around the dragons neck.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING (echoing) Run!
+DELAY 1 	
+ENTER	
+STRING They all take off running for the exit with the dragon in hot 
+DELAY 1 	
+ENTER	
+STRING pursuit. They make it to the bridge and head across. The dragons 
+DELAY 1 	
+ENTER	
+STRING breathes fire and the bridge begins to burn. They all hang on 
+DELAY 1 	
+ENTER	
+STRING for dear life as the ropes holding the bridge up collapse. They 
+DELAY 1 	
+ENTER	
+STRING are swung to the other side. As they hang upside down they look 
+DELAY 1 	
+ENTER	
+STRING in horror as the dragon makes to fly over the boiling lava to 
+DELAY 1 	
+ENTER	
+STRING get them. But suddenly the chandelier with the chain jerk the 
+DELAY 1 	
+ENTER	
+STRING dragon back and she's unable to get to them. Our gang climbs 
+DELAY 1 	
+ENTER	
+STRING quickly to safety as the dragon looks angry and then gives a 
+DELAY 1 	
+ENTER	
+STRING sad whimper as she watches Donkey walk away.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING (sliding down the 'volcano' hill) You 
+DELAY 1 	
+ENTER	
+STRING did it! You rescued me! You're amazing. 
+DELAY 1 	
+ENTER	
+STRING (behind her Donkey falls down the hill) 
+DELAY 1 	
+ENTER	
+STRING You're - - You're wonderful. You're... 
+DELAY 1 	
+ENTER	
+STRING (turns and sees Shrek fall down the 
+DELAY 1 	
+ENTER	
+STRING hill and bump into Donkey) a little 
+DELAY 1 	
+ENTER	
+STRING unorthodox I'll admit. But thy deed 
+DELAY 1 	
+ENTER	
+STRING is great, and thy heart is pure. I am 
+DELAY 1 	
+ENTER	
+STRING eternally in your debt. (Donkey clears 
+DELAY 1 	
+ENTER	
+STRING his throat.) And where would a brave 
+DELAY 1 	
+ENTER	
+STRING knight be without his noble steed?
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING I hope you heard that. She called me 
+DELAY 1 	
+ENTER	
+STRING a noble steed. She think I'm a steed.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING The battle is won. You may remove your 
+DELAY 1 	
+ENTER	
+STRING helmet, good Sir Knight.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Uh, no.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Why not?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING I have helmet hair.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Please. I would'st look upon the face 
+DELAY 1 	
+ENTER	
+STRING of my rescuer.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING No, no, you wouldn't - - 'st.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING But how will you kiss me?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING What? (to Donkey) That wasn't in the 
+DELAY 1 	
+ENTER	
+STRING job description.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Maybe it's a perk.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING No, it's destiny. Oh, you must know 
+DELAY 1 	
+ENTER	
+STRING how it goes. A princess locked in a 
+DELAY 1 	
+ENTER	
+STRING tower and beset by a dragon is rescued 
+DELAY 1 	
+ENTER	
+STRING by a brave knight, and then they share 
+DELAY 1 	
+ENTER	
+STRING true love's first kiss.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Hmm? With Shrek? You think- - Wait. 
+DELAY 1 	
+ENTER	
+STRING Wait. You think that Shrek is you true 
+DELAY 1 	
+ENTER	
+STRING love?
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Well, yes.
+DELAY 1 	
+ENTER	
+STRING Both Donkey and Shrek burst out laughing.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING You think Shrek is your true love!
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING What is so funny?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Let's just say I'm not your type, okay?Fiona: 
+DELAY 1 	
+ENTER	
+STRING Of course, you are. You're my rescuer. 
+DELAY 1 	
+ENTER	
+STRING Now - - Now remove your helmet.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Look. I really don't think this is a 
+DELAY 1 	
+ENTER	
+STRING good idea.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Just take off the helmet.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING I'm not going to.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Take it off.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING No!
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Now!
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Okay! Easy. As you command. Your Highness. 
+DELAY 1 	
+ENTER	
+STRING (takes off his helmet)
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING You- - You're a- - an ogre.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Oh, you were expecting Prince Charming.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Well, yes, actually. Oh, no. This is 
+DELAY 1 	
+ENTER	
+STRING all wrong. You're not supposed to be 
+DELAY 1 	
+ENTER	
+STRING an ogre.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Princess, I was sent to rescue you by 
+DELAY 1 	
+ENTER	
+STRING Lord Farquaad, okay? He is the one who 
+DELAY 1 	
+ENTER	
+STRING wants to marry you.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Then why didn't he come rescue me?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Good question. You should ask him that 
+DELAY 1 	
+ENTER	
+STRING when we get there.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING But I have to be rescued by my true 
+DELAY 1 	
+ENTER	
+STRING love, not by some ogre and his- - his 
+DELAY 1 	
+ENTER	
+STRING pet.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Well, so much for noble steed.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING You're not making my job any easier.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING I'm sorry, but your job is not my problem. 
+DELAY 1 	
+ENTER	
+STRING You can tell Lord Farquaad that if he 
+DELAY 1 	
+ENTER	
+STRING wants to rescue me properly, I'll be 
+DELAY 1 	
+ENTER	
+STRING waiting for him right here.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Hey! I'm no one's messenger boy, all 
+DELAY 1 	
+ENTER	
+STRING right? (ominous) I'm a delivery boy. 
+DELAY 1 	
+ENTER	
+STRING (he swiftly picks her up and swings 
+DELAY 1 	
+ENTER	
+STRING her over his shoulder like she was a 
+DELAY 1 	
+ENTER	
+STRING sack of potatoes)
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING You wouldn't dare. Put me down!
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Ya comin', Donkey?
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING I'm right behind ya.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Put me down, or you will suffer the 
+DELAY 1 	
+ENTER	
+STRING consequences! This is not dignified! 
+DELAY 1 	
+ENTER	
+STRING Put me down!
+DELAY 1 	
+ENTER	
+STRING WOODS
+DELAY 1 	
+ENTER	
+STRING A little time has passed and Fiona has calmed down. She just 
+DELAY 1 	
+ENTER	
+STRING hangs there limply while Shrek carries her.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Okay, so here's another question. Say 
+DELAY 1 	
+ENTER	
+STRING there's a woman that digs you, right, 
+DELAY 1 	
+ENTER	
+STRING but you don't really like her that way. 
+DELAY 1 	
+ENTER	
+STRING How do you let her down real easy so 
+DELAY 1 	
+ENTER	
+STRING her feelings aren't hurt, but you don't 
+DELAY 1 	
+ENTER	
+STRING get burned to a crisp and eaten?
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING You just tell her she's not your true 
+DELAY 1 	
+ENTER	
+STRING love. Everyone knows what happens when 
+DELAY 1 	
+ENTER	
+STRING you find your...(Shrek drops her on 
+DELAY 1 	
+ENTER	
+STRING the ground) Hey! The sooner we get to 
+DELAY 1 	
+ENTER	
+STRING DuLoc the better.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING You're gonna love it there, Princess. 
+DELAY 1 	
+ENTER	
+STRING It's beautiful!
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING And what of my groom-to-be? Lord Farquaad? 
+DELAY 1 	
+ENTER	
+STRING What's he like?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Let me put it this way, Princess. Men 
+DELAY 1 	
+ENTER	
+STRING of Farquaad's stature are in short supply. 
+DELAY 1 	
+ENTER	
+STRING (he and Donkey laugh)
+DELAY 1 	
+ENTER	
+STRING Shrek then proceeds to splash water onto his face to wash off 
+DELAY 1 	
+ENTER	
+STRING the dust and grime.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING I don't know. There are those who think 
+DELAY 1 	
+ENTER	
+STRING little of him. (they laugh again) Fiona: 
+DELAY 1 	
+ENTER	
+STRING Stop it. Stop it, both of you. You're 
+DELAY 1 	
+ENTER	
+STRING just jealous you can never measure up 
+DELAY 1 	
+ENTER	
+STRING to a great ruler like Lord Farquaad.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Yeah, well, maybe you're right, Princess. 
+DELAY 1 	
+ENTER	
+STRING But I'll let you do the "measuring" 
+DELAY 1 	
+ENTER	
+STRING when you see him tomorrow.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING (looks at the setting sun) Tomorrow? 
+DELAY 1 	
+ENTER	
+STRING It'll take that long? Shouldn't we stop 
+DELAY 1 	
+ENTER	
+STRING to make camp?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING No, that'll take longer. We can keep 
+DELAY 1 	
+ENTER	
+STRING going.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING But there's robbers in the woods.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Whoa! Time out, Shrek! Camp is starting 
+DELAY 1 	
+ENTER	
+STRING to sound good.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Hey, come on. I'm scarier than anything 
+DELAY 1 	
+ENTER	
+STRING we're going to see in this forest.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING I need to find somewhere to camp now!
+DELAY 1 	
+ENTER	
+STRING Both Donkey and Shrek's ears lower as they shrink away from her.
+DELAY 1 	
+ENTER	
+STRING MOUNTAIN CLIFF
+DELAY 1 	
+ENTER	
+STRING Shrek has found a cave that appears to be in good order. He shoves 
+DELAY 1 	
+ENTER	
+STRING a stone boulder out of the way to reveal the cave.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Hey! Over here.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Shrek, we can do better than that. I 
+DELAY 1 	
+ENTER	
+STRING don't think this is fit for a princess.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING No, no, it's perfect. It just needs 
+DELAY 1 	
+ENTER	
+STRING a few homey touches.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Homey touches? Like what? (he hears 
+DELAY 1 	
+ENTER	
+STRING a tearing noise and looks over at Fiona 
+DELAY 1 	
+ENTER	
+STRING who has torn the bark off of a tree.)
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING A door? Well, gentlemen, I bid thee 
+DELAY 1 	
+ENTER	
+STRING good night. (goes into the cave and 
+DELAY 1 	
+ENTER	
+STRING puts the bark door up behind her)
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING You want me to read you a bedtime story? 
+DELAY 1 	
+ENTER	
+STRING I will.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING (os) I said good night!
+DELAY 1 	
+ENTER	
+STRING Shrek looks at Donkey for a second and then goes to move the 
+DELAY 1 	
+ENTER	
+STRING boulder back in front of the entrance to the cave with Fiona 
+DELAY 1 	
+ENTER	
+STRING still inside.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Shrek, What are you doing?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING (laughs) I just- - You know - - Oh, 
+DELAY 1 	
+ENTER	
+STRING come on. I was just kidding.
+DELAY 1 	
+ENTER	
+STRING LATER THAT NIGHT
+DELAY 1 	
+ENTER	
+STRING Shrek and Donkey are sitting around a campfire. They are staring 
+DELAY 1 	
+ENTER	
+STRING up into the sky as Shrek points out certain star constellations 
+DELAY 1 	
+ENTER	
+STRING to Donkey.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING And, uh, that one, that's Throwback, 
+DELAY 1 	
+ENTER	
+STRING the only ogre to ever spit over three 
+DELAY 1 	
+ENTER	
+STRING wheat fields.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Right. Yeah. Hey, can you tell my future 
+DELAY 1 	
+ENTER	
+STRING from these stars?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING The stars don't tell the future, Donkey. 
+DELAY 1 	
+ENTER	
+STRING They tell stories. Look, there's Bloodnut, 
+DELAY 1 	
+ENTER	
+STRING the Flatulent. You can guess what he's 
+DELAY 1 	
+ENTER	
+STRING famous for.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING I know you're making this up.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING No, look. There he is, and there's the 
+DELAY 1 	
+ENTER	
+STRING group of hunters running away from his 
+DELAY 1 	
+ENTER	
+STRING stench.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING That ain't nothin' but a bunch of little 
+DELAY 1 	
+ENTER	
+STRING dots.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING You know, Donkey, sometimes things are 
+DELAY 1 	
+ENTER	
+STRING more than they appear. Hmm? Forget it.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING (heaves a big sigh) Hey, Shrek, what 
+DELAY 1 	
+ENTER	
+STRING we gonna do when we get our swamp anyway?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Our swamp?
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING You know, when we're through rescuing 
+DELAY 1 	
+ENTER	
+STRING the princess.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING We? Donkey, there's no "we". There's 
+DELAY 1 	
+ENTER	
+STRING no "our". There's just me and my swamp. 
+DELAY 1 	
+ENTER	
+STRING The first thing I'm gonna do is build 
+DELAY 1 	
+ENTER	
+STRING a ten-foot wall around my land.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING You cut me deep, Shrek. You cut me real 
+DELAY 1 	
+ENTER	
+STRING deep just now. You know what I think? 
+DELAY 1 	
+ENTER	
+STRING I think this whole wall thing is just 
+DELAY 1 	
+ENTER	
+STRING a way to keep somebody out.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING No, do ya think?
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Are you hidin' something?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Never mind, Donkey.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Oh, this is another one of those onion 
+DELAY 1 	
+ENTER	
+STRING things, isn't it?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING No, this is one of those drop-it and 
+DELAY 1 	
+ENTER	
+STRING leave-it alone things.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Why don't you want to talk about it?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Why do you want to talk about it?
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Why are you blocking?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING I'm not blocking.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Oh, yes, you are.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Donkey, I'm warning you.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Who you trying to keep out?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Everyone! Okay?
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING (pause) Oh, now we're gettin' somewhere. 
+DELAY 1 	
+ENTER	
+STRING (grins)
+DELAY 1 	
+ENTER	
+STRING At this point Fiona pulls the 'door' away from the entrance to 
+DELAY 1 	
+ENTER	
+STRING the cave and peaks out. Neither of the guys see her.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Oh! For the love of Pete! (gets up and 
+DELAY 1 	
+ENTER	
+STRING walks over to the edge of the cliff 
+DELAY 1 	
+ENTER	
+STRING and sits down)
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING What's your problem? What you got against 
+DELAY 1 	
+ENTER	
+STRING the whole world anyway?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Look, I'm not the one with the problem, 
+DELAY 1 	
+ENTER	
+STRING okay? It's the world that seems to have 
+DELAY 1 	
+ENTER	
+STRING a problem with me. People take one look 
+DELAY 1 	
+ENTER	
+STRING at me and go. "Aah! Help! Run! A big, 
+DELAY 1 	
+ENTER	
+STRING stupid, ugly ogre!" They judge me before 
+DELAY 1 	
+ENTER	
+STRING they even know me. That's why I'm better 
+DELAY 1 	
+ENTER	
+STRING off alone.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING You know what? When we met, I didn't 
+DELAY 1 	
+ENTER	
+STRING think you was just a big, stupid, ugly 
+DELAY 1 	
+ENTER	
+STRING ogre.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Yeah, I know.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING So, uh, are there any donkeys up there?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Well, there's, um, Gabby, the Small 
+DELAY 1 	
+ENTER	
+STRING and Annoying.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Okay, okay, I see it now. The big shiny 
+DELAY 1 	
+ENTER	
+STRING one, right there. That one there?
+DELAY 1 	
+ENTER	
+STRING Fiona puts the door back.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING That's the moon.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Oh, okay.
+DELAY 1 	
+ENTER	
+STRING DuLoc - Farquaad's Bedroom
+DELAY 1 	
+ENTER	
+STRING The camera pans over a lot of wedding stuff. Soft music plays 
+DELAY 1 	
+ENTER	
+STRING in the background. Farquaad is in bed, watching as the Magic 
+DELAY 1 	
+ENTER	
+STRING Mirror shows him Princess Fiona.
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING Again, show me again. Mirror, mirror, 
+DELAY 1 	
+ENTER	
+STRING show her to me. Show me the princess.
+DELAY 1 	
+ENTER	
+STRING MIRROR
+DELAY 1 	
+ENTER	
+STRING Hmph.
+DELAY 1 	
+ENTER	
+STRING The Mirror rewinds and begins to play again from the beginning.
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING Ah. Perfect.
+DELAY 1 	
+ENTER	
+STRING Farquaad looks down at his bare chest and pulls the sheet up 
+DELAY 1 	
+ENTER	
+STRING to cover himself as though Fiona could see him as he gazes sheepishly 
+DELAY 1 	
+ENTER	
+STRING at her image in the mirror.
+DELAY 1 	
+ENTER	
+STRING MORNING
+DELAY 1 	
+ENTER	
+STRING Fiona walks out of the cave. She glances at Shrek and Donkey 
+DELAY 1 	
+ENTER	
+STRING who are still sleeping. She wanders off into the woods and comes 
+DELAY 1 	
+ENTER	
+STRING across a blue bird. She begins to sing. The bird sings along 
+DELAY 1 	
+ENTER	
+STRING with her. She hits higher and higher notes and the bird struggles 
+DELAY 1 	
+ENTER	
+STRING to keep up with her. Suddenly the pressure of the note is too 
+DELAY 1 	
+ENTER	
+STRING big and the bird explodes. Fiona looks a little sheepish, but 
+DELAY 1 	
+ENTER	
+STRING she eyes the eggs that the bird left behind. Time lapse, Fiona 
+DELAY 1 	
+ENTER	
+STRING is now cooking the eggs for breakfast. Shrek and Donkey are still 
+DELAY 1 	
+ENTER	
+STRING sleeping. Shrek wakes up and looks at Fiona. Donkey's talking 
+DELAY 1 	
+ENTER	
+STRING in his sleep.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING (quietly) Mmm, yeah, you know I like 
+DELAY 1 	
+ENTER	
+STRING it like that. Come on, baby. I said 
+DELAY 1 	
+ENTER	
+STRING I like it.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Donkey, wake up. (shakes him)
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Huh? What?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Wake up.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING What? (stretches and yawns)
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Good morning. Hm, how do you like your 
+DELAY 1 	
+ENTER	
+STRING eggs?
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Oh, good morning, Princess!
+DELAY 1 	
+ENTER	
+STRING Fiona gets up and sets the eggs down in front of them.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING What's all this about?
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING You know, we kind of got off to a bad 
+DELAY 1 	
+ENTER	
+STRING start yesterday. I wanted to make it 
+DELAY 1 	
+ENTER	
+STRING up to you. I mean, after all, you did 
+DELAY 1 	
+ENTER	
+STRING rescue me.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Uh, thanks.
+DELAY 1 	
+ENTER	
+STRING Donkey sniffs the eggs and licks his lips.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Well, eat up. We've got a big day ahead 
+DELAY 1 	
+ENTER	
+STRING of us. (walks off)
+DELAY 1 	
+ENTER	
+STRING LATER
+DELAY 1 	
+ENTER	
+STRING They are once again on their way. They are walking through the 
+DELAY 1 	
+ENTER	
+STRING forest. Shrek belches.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Shrek!
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING What? It's a compliment. Better out 
+DELAY 1 	
+ENTER	
+STRING than in, I always say. (laughs)
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Well, it's no way to behave in front 
+DELAY 1 	
+ENTER	
+STRING of a princess.
+DELAY 1 	
+ENTER	
+STRING Fiona belches
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Thanks.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING She's as nasty as you are.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING (chuckles) You know, you're not exactly 
+DELAY 1 	
+ENTER	
+STRING what I expected.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Well, maybe you shouldn't judge people 
+DELAY 1 	
+ENTER	
+STRING before you get to know them.
+DELAY 1 	
+ENTER	
+STRING She smiles and then continues walking, singing softly. Suddenly 
+DELAY 1 	
+ENTER	
+STRING from out of nowhere, a man swings down and swoops Fiona up into 
+DELAY 1 	
+ENTER	
+STRING a tree.
+DELAY 1 	
+ENTER	
+STRING ROBIN HOOD
+DELAY 1 	
+ENTER	
+STRING La liberte! Hey!
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Princess!
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING (to Robin Hood) What are you doing?
+DELAY 1 	
+ENTER	
+STRING ROBIN HOOD
+DELAY 1 	
+ENTER	
+STRING Be still, mon cherie, for I am you savior! 
+DELAY 1 	
+ENTER	
+STRING And I am rescuing you from this green...(kisses 
+DELAY 1 	
+ENTER	
+STRING up her arm while Fiona pulls back in 
+DELAY 1 	
+ENTER	
+STRING disgust)...beast.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Hey! That's my princess! Go find you 
+DELAY 1 	
+ENTER	
+STRING own!
+DELAY 1 	
+ENTER	
+STRING ROBIN HOOD
+DELAY 1 	
+ENTER	
+STRING Please, monster! Can't you see I'm a 
+DELAY 1 	
+ENTER	
+STRING little busy here?
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING (getting fed up) Look, pal, I don't 
+DELAY 1 	
+ENTER	
+STRING know who you think you are!
+DELAY 1 	
+ENTER	
+STRING ROBIN HOOD
+DELAY 1 	
+ENTER	
+STRING Oh! Of course! Oh, how rude. Please 
+DELAY 1 	
+ENTER	
+STRING let me introduce myself. Oh, Merry Men. 
+DELAY 1 	
+ENTER	
+STRING (laughs)
+DELAY 1 	
+ENTER	
+STRING Suddenly an accordion begins to play and the Merry men pop out 
+DELAY 1 	
+ENTER	
+STRING from the bushes. They begin to sing Robin's theme song.
+DELAY 1 	
+ENTER	
+STRING MERRY MEN
+DELAY 1 	
+ENTER	
+STRING Ta, dah, dah, dah, whoo.
+DELAY 1 	
+ENTER	
+STRING ROBIN HOOD
+DELAY 1 	
+ENTER	
+STRING I steal from the rich and give to the 
+DELAY 1 	
+ENTER	
+STRING needy.
+DELAY 1 	
+ENTER	
+STRING MERRY MEN
+DELAY 1 	
+ENTER	
+STRING He takes a wee percentage,
+DELAY 1 	
+ENTER	
+STRING ROBIN HOOD
+DELAY 1 	
+ENTER	
+STRING But I'm not greedy. I rescue pretty 
+DELAY 1 	
+ENTER	
+STRING damsels, man, I'm good.
+DELAY 1 	
+ENTER	
+STRING MERRY MEN
+DELAY 1 	
+ENTER	
+STRING What a guy, Monsieur Hood.
+DELAY 1 	
+ENTER	
+STRING ROBIN HOOD
+DELAY 1 	
+ENTER	
+STRING Break it down. I like an honest fight 
+DELAY 1 	
+ENTER	
+STRING and a saucy little maid...
+DELAY 1 	
+ENTER	
+STRING MERRY MEN
+DELAY 1 	
+ENTER	
+STRING What he's basically saying is he likes 
+DELAY 1 	
+ENTER	
+STRING to get...
+DELAY 1 	
+ENTER	
+STRING ROBIN HOOD
+DELAY 1 	
+ENTER	
+STRING Paid. So...When an ogre in the bush 
+DELAY 1 	
+ENTER	
+STRING grabs a lady by the tush. That's bad.
+DELAY 1 	
+ENTER	
+STRING MERRY MEN
+DELAY 1 	
+ENTER	
+STRING That's bad.
+DELAY 1 	
+ENTER	
+STRING ROBIN HOOD
+DELAY 1 	
+ENTER	
+STRING When a beauty's with a beast it makes 
+DELAY 1 	
+ENTER	
+STRING me awfully mad.
+DELAY 1 	
+ENTER	
+STRING MERRY MEN
+DELAY 1 	
+ENTER	
+STRING He's mad, he's really, really mad.
+DELAY 1 	
+ENTER	
+STRING ROBIN HOOD
+DELAY 1 	
+ENTER	
+STRING I'll take my blade and ram it through 
+DELAY 1 	
+ENTER	
+STRING your heart, keep your eyes on me, boys 
+DELAY 1 	
+ENTER	
+STRING 'cause I'm about to start...
+DELAY 1 	
+ENTER	
+STRING There is a grunt as Fiona swings down from the tree limb and 
+DELAY 1 	
+ENTER	
+STRING knocks Robin Hood unconscious.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Man, that was annoying!
+DELAY 1 	
+ENTER	
+STRING Shrek looks at her in admiration.
+DELAY 1 	
+ENTER	
+STRING MERRY MAN
+DELAY 1 	
+ENTER	
+STRING Oh, you little- - (shoots an arrow at 
+DELAY 1 	
+ENTER	
+STRING Fiona but she ducks out of the way)
+DELAY 1 	
+ENTER	
+STRING The arrow flies toward Donkey who jumps into Shrek's arms to 
+DELAY 1 	
+ENTER	
+STRING get out of the way. The arrow proceeds to just bounce off a tree.
+DELAY 1 	
+ENTER	
+STRING Another fight sequence begins and Fiona gives a karate yell and 
+DELAY 1 	
+ENTER	
+STRING then proceeds to beat the crap out of the Merry Men. There is 
+DELAY 1 	
+ENTER	
+STRING a very interesting 'Matrix' moment here when Fiona pauses in 
+DELAY 1 	
+ENTER	
+STRING mid-air to fix her hair. Finally all of the Merry Men are down, 
+DELAY 1 	
+ENTER	
+STRING and Fiona begins walking away.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Uh, shall we?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Hold the phone. (drops Donkey and begins 
+DELAY 1 	
+ENTER	
+STRING walking after Fiona) Oh! Whoa, whoa, 
+DELAY 1 	
+ENTER	
+STRING whoa. Hold on now. Where did that come 
+DELAY 1 	
+ENTER	
+STRING from?
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING What?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING That! Back there. That was amazing! 
+DELAY 1 	
+ENTER	
+STRING Where did you learn that?
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Well...(laughs) when one lives alone, 
+DELAY 1 	
+ENTER	
+STRING uh, one has to learn these things in 
+DELAY 1 	
+ENTER	
+STRING case there's a...(gasps and points) 
+DELAY 1 	
+ENTER	
+STRING there's an arrow in your butt!
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING What? (turns and looks) Oh, would you 
+DELAY 1 	
+ENTER	
+STRING look at that? (he goes to pull it out 
+DELAY 1 	
+ENTER	
+STRING but flinches because it's tender)
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Oh, no. This is all my fault. I'm so 
+DELAY 1 	
+ENTER	
+STRING sorry.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING (walking up) Why? What's wrong?
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Shrek's hurt.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Shrek's hurt. Shrek's hurt? Oh, no, 
+DELAY 1 	
+ENTER	
+STRING Shrek's gonna die.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Donkey, I'm okay.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING You can't do this to me, Shrek. I'm 
+DELAY 1 	
+ENTER	
+STRING too young for you to die. Keep you legs 
+DELAY 1 	
+ENTER	
+STRING elevated. Turn your head and cough. 
+DELAY 1 	
+ENTER	
+STRING Does anyone know the Heimlich?
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Donkey! Calm down. If you want to help 
+DELAY 1 	
+ENTER	
+STRING Shrek, run into the woods and find me 
+DELAY 1 	
+ENTER	
+STRING a blue flower with red thorns.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Blue flower, red thorns. Okay, I'm on 
+DELAY 1 	
+ENTER	
+STRING it. Blue flower, red thorns. Don't die 
+DELAY 1 	
+ENTER	
+STRING Shrek. If you see a long tunnel, stay 
+DELAY 1 	
+ENTER	
+STRING away from the light!
+DELAY 1 	
+ENTER	
+STRING SHREK & FIONA
+DELAY 1 	
+ENTER	
+STRING Donkey!
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Oh, yeah. Right. Blue flower, red thorns. 
+DELAY 1 	
+ENTER	
+STRING (runs off)
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING What are the flowers for?
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING (like it's obvious) For getting rid 
+DELAY 1 	
+ENTER	
+STRING of Donkey.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Ah.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Now you hold still, and I'll yank this 
+DELAY 1 	
+ENTER	
+STRING thing out. (gives the arrow a little 
+DELAY 1 	
+ENTER	
+STRING pull)
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING (jumps away) Ow! Hey! Easy with the 
+DELAY 1 	
+ENTER	
+STRING yankin'.
+DELAY 1 	
+ENTER	
+STRING As they continue to talk Fiona keeps going after the arrow and 
+DELAY 1 	
+ENTER	
+STRING Shrek keeps dodging her hands.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING I'm sorry, but it has to come out.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING No, it's tender.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Now, hold on.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING What you're doing is the opposite of 
+DELAY 1 	
+ENTER	
+STRING help.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Don't move.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Look, time out.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Would you...(grunts as Shrek puts his 
+DELAY 1 	
+ENTER	
+STRING hand over her face to stop her from 
+DELAY 1 	
+ENTER	
+STRING getting at the arrow) Okay. What do 
+DELAY 1 	
+ENTER	
+STRING you propose we do?
+DELAY 1 	
+ENTER	
+STRING ELSEWHERE
+DELAY 1 	
+ENTER	
+STRING Donkey is still looking for the special flower.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Blue flower, red thorns. Blue flower, 
+DELAY 1 	
+ENTER	
+STRING red thorns. Blue flower, red thorns. 
+DELAY 1 	
+ENTER	
+STRING This would be so much easier if I wasn't 
+DELAY 1 	
+ENTER	
+STRING color-blind! Blue flower, red thorns.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING (os) Ow!
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Hold on, Shrek! I'm comin'! (rips a 
+DELAY 1 	
+ENTER	
+STRING flower off a nearby bush that just happens 
+DELAY 1 	
+ENTER	
+STRING to be a blue flower with red thorns)
+DELAY 1 	
+ENTER	
+STRING THE FOREST PATH
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Ow! Not good.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Okay. Okay. I can nearly see the head. 
+DELAY 1 	
+ENTER	
+STRING (Shrek grunts as she pulls) It's just 
+DELAY 1 	
+ENTER	
+STRING about...
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Ow! Ohh! (he jerks and manages to fall 
+DELAY 1 	
+ENTER	
+STRING over with Fiona on top of him)
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Ahem.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING (throwing Fiona off of him) Nothing 
+DELAY 1 	
+ENTER	
+STRING happend. We were just, uh - -
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Look, if you wanted to be alone, all 
+DELAY 1 	
+ENTER	
+STRING you had to do was ask. Okay?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Oh, come on! That's the last thing on 
+DELAY 1 	
+ENTER	
+STRING my mind. The princess here was just- 
+DELAY 1 	
+ENTER	
+STRING - (Fiona pulls the arrow out) Ugh! (he 
+DELAY 1 	
+ENTER	
+STRING turns to look at Fiona who holds up 
+DELAY 1 	
+ENTER	
+STRING the arrow with a smile) Ow!
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Hey, what's that? (nervous chuckle) 
+DELAY 1 	
+ENTER	
+STRING That's...is that blood?
+DELAY 1 	
+ENTER	
+STRING Donkey faints. Shrek walks over and picks him up as they continue 
+DELAY 1 	
+ENTER	
+STRING on their way.
+DELAY 1 	
+ENTER	
+STRING There is a montage of scenes as the group heads back to DuLoc. 
+DELAY 1 	
+ENTER	
+STRING Shrek crawling up to the top of a tree to make it fall over a 
+DELAY 1 	
+ENTER	
+STRING small brook so that Fiona won't get wet. Shrek then gets up as 
+DELAY 1 	
+ENTER	
+STRING Donkey is just about to cross the tree and the tree swings back 
+DELAY 1 	
+ENTER	
+STRING into it's upright position and Donkey flies off. Shrek swatting 
+DELAY 1 	
+ENTER	
+STRING and a bunch of flies and mosquitoes. Fiona grabs a nearby spiderweb 
+DELAY 1 	
+ENTER	
+STRING that's on a tree branch and runs through the field swinging it 
+DELAY 1 	
+ENTER	
+STRING around to catch the bugs. She then hands it to Shrek who begins 
+DELAY 1 	
+ENTER	
+STRING eating like it's a treat. As he walks off she licks her fingers. 
+DELAY 1 	
+ENTER	
+STRING Shrek catching a toad and blowing it up like a balloon and presenting 
+DELAY 1 	
+ENTER	
+STRING it to Fiona. Fiona catching a snake, blowing it up, fashioning 
+DELAY 1 	
+ENTER	
+STRING it into a balloon animal and presenting it to Shrek. The group 
+DELAY 1 	
+ENTER	
+STRING arriving at a windmill that is near DuLoc.
+DELAY 1 	
+ENTER	
+STRING WINDMILL
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING There it is, Princess. Your future awaits 
+DELAY 1 	
+ENTER	
+STRING you.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING That's DuLoc?
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Yeah, I know. You know, Shrek thinks 
+DELAY 1 	
+ENTER	
+STRING Lord Farquaad's compensating for something, 
+DELAY 1 	
+ENTER	
+STRING which I think means he has a really...(Shrek 
+DELAY 1 	
+ENTER	
+STRING steps on his hoof) Ow!
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Um, I, uh- - I guess we better move 
+DELAY 1 	
+ENTER	
+STRING on.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Sure. But, Shrek? I'm - - I'm worried 
+DELAY 1 	
+ENTER	
+STRING about Donkey.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING What?
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING I mean, look at him. He doesn't look 
+DELAY 1 	
+ENTER	
+STRING so good.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING What are you talking about? I'm fine.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING (kneels to look him in the eyes) That's 
+DELAY 1 	
+ENTER	
+STRING what they always say, and then next 
+DELAY 1 	
+ENTER	
+STRING thing you know, you're on your back. 
+DELAY 1 	
+ENTER	
+STRING (pause) Dead.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING You know, she's right. You look awful. 
+DELAY 1 	
+ENTER	
+STRING Do you want to sit down?
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Uh, you know, I'll make you some tea.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING I didn't want to say nothin', but I 
+DELAY 1 	
+ENTER	
+STRING got this twinge in my neck, and when 
+DELAY 1 	
+ENTER	
+STRING I turn my head like this, look, (turns 
+DELAY 1 	
+ENTER	
+STRING his neck in a very sharp way until his 
+DELAY 1 	
+ENTER	
+STRING head is completely sideways) Ow! See?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Who's hungry? I'll find us some dinner.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING I'll get the firewood.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Hey, where you goin'? Oh, man, I can't 
+DELAY 1 	
+ENTER	
+STRING feel my toes! (looks down and yelps) 
+DELAY 1 	
+ENTER	
+STRING I don't have any toes! I think I need 
+DELAY 1 	
+ENTER	
+STRING a hug.
+DELAY 1 	
+ENTER	
+STRING SUNSET
+DELAY 1 	
+ENTER	
+STRING Shrek has built a fire and is cooking the rest of dinner while 
+DELAY 1 	
+ENTER	
+STRING Fiona eats.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Mmm. This is good. This is really good. 
+DELAY 1 	
+ENTER	
+STRING What is this?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Uh, weed rat. Rotisserie style.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING No kidding. Well, this is delicious.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Well, they're also great in stews. Now, 
+DELAY 1 	
+ENTER	
+STRING I don't mean to brag, but I make a mean 
+DELAY 1 	
+ENTER	
+STRING weed rat stew. (chuckles)
+DELAY 1 	
+ENTER	
+STRING Fiona looks at DuLoc and sighs.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING I guess I'll be dining a little differently 
+DELAY 1 	
+ENTER	
+STRING tomorrow night.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Maybe you can come visit me in the swamp 
+DELAY 1 	
+ENTER	
+STRING sometime. I'll cook all kind of stuff 
+DELAY 1 	
+ENTER	
+STRING for you. Swamp toad soup, fish eye tartare 
+DELAY 1 	
+ENTER	
+STRING #¿NOMBRE?
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING (smiles) I'd like that.
+DELAY 1 	
+ENTER	
+STRING They smiles at each other.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Um, Princess?
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Yes, Shrek?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING I, um, I was wondering...are you...(sighs) 
+DELAY 1 	
+ENTER	
+STRING Are you gonna eat that?
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING (chuckles) Man, isn't this romantic? 
+DELAY 1 	
+ENTER	
+STRING Just look at that sunset.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING (jumps up) Sunset? Oh, no! I mean, it's 
+DELAY 1 	
+ENTER	
+STRING late. I-It's very late.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING What?
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Wait a minute. I see what's goin' on 
+DELAY 1 	
+ENTER	
+STRING here. You're afraid of the dark, aren't 
+DELAY 1 	
+ENTER	
+STRING you?
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Yes! Yes, that's it. I'm terrified. 
+DELAY 1 	
+ENTER	
+STRING You know, I'd better go inside.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Don't feel bad, Princess. I used to 
+DELAY 1 	
+ENTER	
+STRING be afraid of the dark, too, until - 
+DELAY 1 	
+ENTER	
+STRING - Hey, no, wait. I'm still afraid of 
+DELAY 1 	
+ENTER	
+STRING the dark.
+DELAY 1 	
+ENTER	
+STRING Shrek sighs
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Good night.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Good night.
+DELAY 1 	
+ENTER	
+STRING Fiona goes inside the windmill and closes the door. Donkey looks 
+DELAY 1 	
+ENTER	
+STRING at Shrek with a new eye.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Ohh! Now I really see what's goin' on 
+DELAY 1 	
+ENTER	
+STRING here.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Oh, what are you talkin' about?
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING I don't even wanna hear it. Look, I'm 
+DELAY 1 	
+ENTER	
+STRING an animal, and I got instincts. And 
+DELAY 1 	
+ENTER	
+STRING I know you two were diggin' on each 
+DELAY 1 	
+ENTER	
+STRING other. I could feel it.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING You're crazy. I'm just bringing her 
+DELAY 1 	
+ENTER	
+STRING back to Farquaad.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Oh, come on, Shrek. Wake up and smell 
+DELAY 1 	
+ENTER	
+STRING the pheromones. Just go on in and tell 
+DELAY 1 	
+ENTER	
+STRING her how you feel.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING I- - There's nothing to tell. Besides, 
+DELAY 1 	
+ENTER	
+STRING even if I did tell her that, well, you 
+DELAY 1 	
+ENTER	
+STRING know - - and I'm not sayin' I do 'cause 
+DELAY 1 	
+ENTER	
+STRING I don't - - she's a princess, and I'm 
+DELAY 1 	
+ENTER	
+STRING - -
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING An ogre?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Yeah. An ogre.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Hey, where you goin'?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING To get... move firewood. (sighs)
+DELAY 1 	
+ENTER	
+STRING Donkey looks over at the large pile of firewood there already 
+DELAY 1 	
+ENTER	
+STRING is.
+DELAY 1 	
+ENTER	
+STRING TIME LAPSE
+DELAY 1 	
+ENTER	
+STRING Donkey opens the door to the Windmill and walks in. Fiona is 
+DELAY 1 	
+ENTER	
+STRING nowhere to be seen.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Princess? Princess Fiona? Princess, 
+DELAY 1 	
+ENTER	
+STRING where are you? Princess?
+DELAY 1 	
+ENTER	
+STRING Fiona looks at Donkey from the shadows, but we can't see her.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING It's very spooky in here. I ain't playing 
+DELAY 1 	
+ENTER	
+STRING no games.
+DELAY 1 	
+ENTER	
+STRING Suddenly Fiona falls from the railing. She gets up only she doesn't 
+DELAY 1 	
+ENTER	
+STRING look like herself. She looks like an ogre and Donkey starts freaking 
+DELAY 1 	
+ENTER	
+STRING out.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Aah!
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Oh, no!
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING No, help!
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Shh!
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Shrek! Shrek! Shrek!
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING No, it's okay. It's okay.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING What did you do with the princess?
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Donkey, I'm the princess.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Aah!
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING It's me, in this body.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Oh, my God! You ate the princess. (to 
+DELAY 1 	
+ENTER	
+STRING her stomach) Can you hear me?
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Donkey!
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING (still aimed at her stomach) Listen, 
+DELAY 1 	
+ENTER	
+STRING keep breathing! I'll get you out of 
+DELAY 1 	
+ENTER	
+STRING there!
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING No!
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Shrek! Shrek! Shrek!
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Shh.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Shrek!
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING This is me.
+DELAY 1 	
+ENTER	
+STRING Donkey looks into her eyes as she pets his muzzle, and he quiets 
+DELAY 1 	
+ENTER	
+STRING down.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Princess? What happened to you? You're, 
+DELAY 1 	
+ENTER	
+STRING uh, uh, uh, different.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING I'm ugly, okay?
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Well, yeah! Was it something you ate? 
+DELAY 1 	
+ENTER	
+STRING 'Cause I told Shrek those rats was a 
+DELAY 1 	
+ENTER	
+STRING bad idea. You are what you eat, I said. 
+DELAY 1 	
+ENTER	
+STRING Now - -
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING No. I - - I've been this way as long 
+DELAY 1 	
+ENTER	
+STRING as I can remember.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING What do you mean? Look, I ain't never 
+DELAY 1 	
+ENTER	
+STRING seen you like this before.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING It only happens when sun goes down. 
+DELAY 1 	
+ENTER	
+STRING "By night one way, by day another. This 
+
+
+shall be the norm... until you find 
+
+
+true love's first kiss... and then take 
+
+
+love's true form."
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Ah, that's beautiful. I didn't know 
+DELAY 1 	
+ENTER	
+STRING you wrote poetry.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING It's a spell. (sigh) When I was a little 
+DELAY 1 	
+ENTER	
+STRING girl, a witch cast a spell on me. Every 
+DELAY 1 	
+ENTER	
+STRING night I become this. This horrible, 
+DELAY 1 	
+ENTER	
+STRING ugly beast! I was placed in a tower 
+DELAY 1 	
+ENTER	
+STRING to await the day my true love would 
+DELAY 1 	
+ENTER	
+STRING rescue me. That's why I have to marry 
+DELAY 1 	
+ENTER	
+STRING Lord Farquaad tomorrow before the sun 
+DELAY 1 	
+ENTER	
+STRING sets and he sees me like this. (begins 
+DELAY 1 	
+ENTER	
+STRING to cry)
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING All right, all right. Calm down. Look, 
+DELAY 1 	
+ENTER	
+STRING it's not that bad. You're not that ugly. 
+DELAY 1 	
+ENTER	
+STRING Well, I ain't gonna lie. You are ugly. 
+DELAY 1 	
+ENTER	
+STRING But you only look like this at night. 
+DELAY 1 	
+ENTER	
+STRING Shrek's ugly 24-7.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING But Donkey, I'm a princess, and this 
+DELAY 1 	
+ENTER	
+STRING is not how a princess is meant to look.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Princess, how 'bout if you don't marry 
+DELAY 1 	
+ENTER	
+STRING Farquaad?
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING I have to. Only my true love's kiss 
+DELAY 1 	
+ENTER	
+STRING can break the spell.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING But, you know, um, you're kind of an 
+DELAY 1 	
+ENTER	
+STRING orge, and Shrek - - well, you got a 
+DELAY 1 	
+ENTER	
+STRING lot in common.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Shrek?
+DELAY 1 	
+ENTER	
+STRING OUTSIDE
+DELAY 1 	
+ENTER	
+STRING Shrek is walking towards the windmill with a sunflower in his 
+DELAY 1 	
+ENTER	
+STRING hand.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING (to himself) Princess, I - - Uh, how's 
+DELAY 1 	
+ENTER	
+STRING it going, first of all? Good? Um, good 
+DELAY 1 	
+ENTER	
+STRING for me too. I'm okay. I saw this flower 
+DELAY 1 	
+ENTER	
+STRING and thought of you because it's pretty 
+DELAY 1 	
+ENTER	
+STRING and - - well, I don't really like it, 
+DELAY 1 	
+ENTER	
+STRING but I thought you might like it 'cause 
+DELAY 1 	
+ENTER	
+STRING you're pretty. But I like you anyway. 
+DELAY 1 	
+ENTER	
+STRING I'd - - uh, uh...(sighs) I'm in trouble. 
+DELAY 1 	
+ENTER	
+STRING Okay, here we go.
+DELAY 1 	
+ENTER	
+STRING He walks up to the door and pauses outside when he hears Donkey 
+DELAY 1 	
+ENTER	
+STRING and Fiona talking.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING (os) I can't just marry whoever I want. 
+DELAY 1 	
+ENTER	
+STRING Take a good look at me, Donkey. I mean, 
+DELAY 1 	
+ENTER	
+STRING really, who can ever love a beast so 
+DELAY 1 	
+ENTER	
+STRING hideous and ugly? "Princess" and "ugly" 
+DELAY 1 	
+ENTER	
+STRING don't go together. That's why I can't 
+DELAY 1 	
+ENTER	
+STRING stay here with Shrek.
+DELAY 1 	
+ENTER	
+STRING Shrek steps back in shock.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING (os) My only chance to live happily 
+DELAY 1 	
+ENTER	
+STRING ever after is to marry my true love.
+DELAY 1 	
+ENTER	
+STRING Shrek heaves a deep sigh. He throws the flower down and walks 
+DELAY 1 	
+ENTER	
+STRING away.
+DELAY 1 	
+ENTER	
+STRING INSIDE
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Don't you see, Donkey? That's just how 
+DELAY 1 	
+ENTER	
+STRING it has to be. It's the only way to break 
+DELAY 1 	
+ENTER	
+STRING the spell.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING You at least gotta tell Shrek the truth.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING No! You can't breathe a word. No one 
+DELAY 1 	
+ENTER	
+STRING must ever know.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING What's the point of being able to talk 
+DELAY 1 	
+ENTER	
+STRING if you gotta keep secrets?
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Promise you won't tell. Promise!
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING All right, all right. I won't tell him. 
+DELAY 1 	
+ENTER	
+STRING But you should. (goes outside) I just 
+DELAY 1 	
+ENTER	
+STRING know before this is over, I'm gonna 
+DELAY 1 	
+ENTER	
+STRING need a whole lot of serious therapy. 
+DELAY 1 	
+ENTER	
+STRING Look at my eye twitchin'.
+DELAY 1 	
+ENTER	
+STRING Fiona comes out the door and watches him walk away. She looks 
+DELAY 1 	
+ENTER	
+STRING down and spots the sunflower. She picks it up before going back 
+DELAY 1 	
+ENTER	
+STRING inside the windmill.
+DELAY 1 	
+ENTER	
+STRING MORNING
+DELAY 1 	
+ENTER	
+STRING Donkey is asleep. Shrek is nowhere to be seen. Fiona is still 
+DELAY 1 	
+ENTER	
+STRING awake. She is plucking petals from the sunflower.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING I tell him, I tell him not. I tell him, 
+DELAY 1 	
+ENTER	
+STRING I tell him not. I tell him. (she quickly 
+DELAY 1 	
+ENTER	
+STRING runs to the door and goes outside) Shrek! 
+DELAY 1 	
+ENTER	
+STRING Shrek, there's something I want...(she 
+DELAY 1 	
+ENTER	
+STRING looks and sees the rising sun, and as 
+DELAY 1 	
+ENTER	
+STRING the sun crests the sky she turns back 
+DELAY 1 	
+ENTER	
+STRING into a human.)
+DELAY 1 	
+ENTER	
+STRING Just as she looks back at the sun she sees Shrek stomping towards 
+DELAY 1 	
+ENTER	
+STRING her.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Shrek. Are you all right?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Perfect! Never been better.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING I - - I don't - - There's something 
+DELAY 1 	
+ENTER	
+STRING I have to tell you.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING You don't have to tell me anything, 
+DELAY 1 	
+ENTER	
+STRING Princess. I heard enough last night.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING You heard what I said?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Every word.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING I thought you'd understand.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Oh, I understand. Like you said, "Who 
+DELAY 1 	
+ENTER	
+STRING could love a hideous, ugly beast?"
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING But I thought that wouldn't matter to 
+DELAY 1 	
+ENTER	
+STRING you.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Yeah? Well, it does. (Fiona looks at 
+DELAY 1 	
+ENTER	
+STRING him in shock. He looks past her and 
+DELAY 1 	
+ENTER	
+STRING spots a group approaching.) Ah, right 
+DELAY 1 	
+ENTER	
+STRING on time. Princess, I've brought you 
+DELAY 1 	
+ENTER	
+STRING a little something.
+DELAY 1 	
+ENTER	
+STRING Farquaad has arrived with a group of his men. He looks very regal 
+DELAY 1 	
+ENTER	
+STRING sitting up on his horse. You would never guess that he's only 
+DELAY 1 	
+ENTER	
+STRING like 3 feet tall. Donkey wakes up with a yawn as the soldiers 
+DELAY 1 	
+ENTER	
+STRING march by.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING What'd I miss? What'd I miss? (spots 
+DELAY 1 	
+ENTER	
+STRING the soldiers) (muffled) Who said that? 
+DELAY 1 	
+ENTER	
+STRING Couldn't have been the donkey.
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING Princess Fiona.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING As promised. Now hand it over.
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING Very well, ogre. (holds out a piece 
+DELAY 1 	
+ENTER	
+STRING of paper) The deed to your swamp, cleared 
+DELAY 1 	
+ENTER	
+STRING out, as agreed. Take it and go before 
+DELAY 1 	
+ENTER	
+STRING I change my mind. (Shrek takes the paper) 
+DELAY 1 	
+ENTER	
+STRING Forgive me, Princess, for startling 
+DELAY 1 	
+ENTER	
+STRING you, but you startled me, for I have 
+DELAY 1 	
+ENTER	
+STRING never seen such a radiant beauty before. 
+DELAY 1 	
+ENTER	
+STRING I'm Lord Farquaad.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Lord Farquaad? Oh, no, no. (Farquaad 
+DELAY 1 	
+ENTER	
+STRING snaps his fingers) Forgive me, my lord, 
+DELAY 1 	
+ENTER	
+STRING for I was just saying a short... (Watches 
+DELAY 1 	
+ENTER	
+STRING as Farquaad is lifted off his horse 
+DELAY 1 	
+ENTER	
+STRING and set down in front of her. He comes 
+DELAY 1 	
+ENTER	
+STRING to her waist.) farewell.
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING Oh, that is so sweet. You don't have 
+DELAY 1 	
+ENTER	
+STRING to waste good manners on the ogre. It's 
+DELAY 1 	
+ENTER	
+STRING not like it has feelings.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING No, you're right. It doesn't.
+DELAY 1 	
+ENTER	
+STRING Donkey watches this exchange with a curious look on his face.
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING Princess Fiona, beautiful, fair, flawless 
+DELAY 1 	
+ENTER	
+STRING Fiona. I ask your hand in marriage. 
+DELAY 1 	
+ENTER	
+STRING Will you be the perfect bride for the 
+DELAY 1 	
+ENTER	
+STRING perfect groom?
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Lord Farquaad, I accept. Nothing would 
+DELAY 1 	
+ENTER	
+STRING make - -
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING (interrupting) Excellent! I'll start 
+DELAY 1 	
+ENTER	
+STRING the plans, for tomorrow we wed!
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING No! I mean, uh, why wait? Let's get 
+DELAY 1 	
+ENTER	
+STRING married today before the sun sets.
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING Oh, anxious, are you? You're right. 
+DELAY 1 	
+ENTER	
+STRING The sooner, the better. There's so much 
+DELAY 1 	
+ENTER	
+STRING to do! There's the caterer, the cake, 
+DELAY 1 	
+ENTER	
+STRING the band, the guest list. Captain, round 
+DELAY 1 	
+ENTER	
+STRING up some guests! (a guard puts Fiona 
+DELAY 1 	
+ENTER	
+STRING on the back of his horse)
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Fare-thee-well, ogre.
+DELAY 1 	
+ENTER	
+STRING Farquaad's whole party begins to head back to DuLoc. Donkey watches 
+DELAY 1 	
+ENTER	
+STRING them go.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Shrek, what are you doing? You're letting 
+DELAY 1 	
+ENTER	
+STRING her get away.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Yeah? So what?
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Shrek, there's something about her you 
+DELAY 1 	
+ENTER	
+STRING don't know. Look, I talked to her last 
+DELAY 1 	
+ENTER	
+STRING night, She's - -
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING I know you talked to her last night. 
+DELAY 1 	
+ENTER	
+STRING You're great pals, aren't ya? Now, if 
+DELAY 1 	
+ENTER	
+STRING you two are such good friends, why don't 
+DELAY 1 	
+ENTER	
+STRING you follow her home?
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Shrek, I - - I wanna go with you.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING I told you, didn't I? You're not coming 
+DELAY 1 	
+ENTER	
+STRING home with me. I live alone! My swamp! 
+DELAY 1 	
+ENTER	
+STRING Me! Nobody else! Understand? Nobody! 
+DELAY 1 	
+ENTER	
+STRING Especially useless, pathetic, annoying, 
+DELAY 1 	
+ENTER	
+STRING talking donkeys!
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING But I thought - -
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Yeah. You know what? You thought wrong! 
+DELAY 1 	
+ENTER	
+STRING (stomps off)
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Shrek.
+DELAY 1 	
+ENTER	
+STRING Montage of different scenes. Shrek arriving back home. Fiona 
+DELAY 1 	
+ENTER	
+STRING being fitted for the wedding dress. Donkey at a stream running 
+DELAY 1 	
+ENTER	
+STRING into the dragon. Shrek cleaning up his house. Fiona eating dinner 
+DELAY 1 	
+ENTER	
+STRING alone. Shrek eating dinner alone.
+DELAY 1 	
+ENTER	
+STRING SHREK'S HOME
+DELAY 1 	
+ENTER	
+STRING Shrek is eating dinner when he hears a sound outside. He goes 
+DELAY 1 	
+ENTER	
+STRING outside to investigate.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Donkey? (Donkey ignores him and continues 
+DELAY 1 	
+ENTER	
+STRING with what he's doing.) What are you 
+DELAY 1 	
+ENTER	
+STRING doing?
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING I would think, of all people, you would 
+DELAY 1 	
+ENTER	
+STRING recognize a wall when you see one.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Well, yeah. But the wall's supposed 
+DELAY 1 	
+ENTER	
+STRING to go around my swamp, not through it.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING It is around your half. See that's your 
+DELAY 1 	
+ENTER	
+STRING half, and this is my half.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Oh! Your half. Hmm.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Yes, my half. I helped rescue the princess. 
+DELAY 1 	
+ENTER	
+STRING I did half the work. I get half the 
+DELAY 1 	
+ENTER	
+STRING booty. Now hand me that big old rock, 
+DELAY 1 	
+ENTER	
+STRING the one that looks like your head.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Back off!
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING No, you back off.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING This is my swamp!
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Our swamp.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING (grabs the tree branch Donkey is working 
+DELAY 1 	
+ENTER	
+STRING with) Let go, Donkey!
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING You let go.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Stubborn jackass!
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Smelly ogre.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Fine! (drops the tree branch and walks 
+DELAY 1 	
+ENTER	
+STRING away)
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Hey, hey, come back here. I'm not through 
+DELAY 1 	
+ENTER	
+STRING with you yet.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Well, I'm through with you.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Uh-uh. You know, with you it's always, 
+DELAY 1 	
+ENTER	
+STRING Me, me, me! Well, guess what! Now 
+DELAY 1 	
+ENTER	
+STRING it's my turn! So you just shut up and 
+DELAY 1 	
+ENTER	
+STRING pay attention! You are mean to me. You 
+DELAY 1 	
+ENTER	
+STRING insult me and you don't appreciate anything 
+DELAY 1 	
+ENTER	
+STRING that I do! You're always pushing me 
+DELAY 1 	
+ENTER	
+STRING around or pushing me away.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Oh, yeah? Well, if I treated you so 
+DELAY 1 	
+ENTER	
+STRING bad, how come you came back?
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Because that's what friends do! They 
+DELAY 1 	
+ENTER	
+STRING forgive each other!
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Oh, yeah. You're right, Donkey. I forgive 
+DELAY 1 	
+ENTER	
+STRING you... for stabbin' me in the back! 
+DELAY 1 	
+ENTER	
+STRING (goes into the outhouse and slams the 
+DELAY 1 	
+ENTER	
+STRING door)
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Ohh! You're so wrapped up in layers, 
+DELAY 1 	
+ENTER	
+STRING onion boy, you're afraid of your own 
+DELAY 1 	
+ENTER	
+STRING feelings.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING (os) Go away!
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING There you are , doing it again just 
+DELAY 1 	
+ENTER	
+STRING like you did to Fiona. All she ever 
+DELAY 1 	
+ENTER	
+STRING do was like you, maybe even love you.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING (os) Love me? She said I was ugly, a 
+DELAY 1 	
+ENTER	
+STRING hideous creature. I heard the two of 
+DELAY 1 	
+ENTER	
+STRING you talking.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING She wasn't talkin' about you. She was 
+DELAY 1 	
+ENTER	
+STRING talkin' about, uh, somebody else.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING (opens the door and comes out) She wasn't 
+DELAY 1 	
+ENTER	
+STRING talking about me? Well, then who was 
+DELAY 1 	
+ENTER	
+STRING she talking about?
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Uh-uh, no way. I ain't saying anything. 
+DELAY 1 	
+ENTER	
+STRING You don't wanna listen to me. Right? 
+DELAY 1 	
+ENTER	
+STRING Right?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Donkey!
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING No!
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Okay, look. I'm sorry, all right? (sigh) 
+DELAY 1 	
+ENTER	
+STRING I'm sorry. I guess I am just a big, 
+DELAY 1 	
+ENTER	
+STRING stupid, ugly ogre. Can you forgive me?
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Hey, that's what friends are for, right?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Right. Friends?
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Friends.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING So, um, what did Fiona say about me?
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING What are you asking me for? Why don't 
+DELAY 1 	
+ENTER	
+STRING you just go ask her?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING The wedding! We'll never make it in 
+DELAY 1 	
+ENTER	
+STRING time.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Ha-ha-ha! Never fear, for where, there's 
+DELAY 1 	
+ENTER	
+STRING a will, there's a way and I have a way. 
+DELAY 1 	
+ENTER	
+STRING (whistles)
+DELAY 1 	
+ENTER	
+STRING Suddenly the dragon arrives overhead and flies low enough so 
+DELAY 1 	
+ENTER	
+STRING they can climb on.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Donkey?
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING I guess it's just my animal magnetism.
+DELAY 1 	
+ENTER	
+STRING They both laugh.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Aw, come here, you. (gives Donkey a 
+DELAY 1 	
+ENTER	
+STRING noogie)
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING All right, all right. Don't get all 
+DELAY 1 	
+ENTER	
+STRING slobbery. No one likes a kiss ass. All 
+DELAY 1 	
+ENTER	
+STRING right, hop on and hold on tight. I haven't 
+DELAY 1 	
+ENTER	
+STRING had a chance to install the seat belts 
+DELAY 1 	
+ENTER	
+STRING yet.
+DELAY 1 	
+ENTER	
+STRING They climb aboard the dragon and she takes off for DuLoc.
+DELAY 1 	
+ENTER	
+STRING DULOC - CHURCH
+DELAY 1 	
+ENTER	
+STRING Fiona and Farquaad are getting married. The whole town is there. 
+DELAY 1 	
+ENTER	
+STRING The prompter card guy holds up a card that says 'Revered Silence'.
+DELAY 1 	
+ENTER	
+STRING PRIEST
+DELAY 1 	
+ENTER	
+STRING People of DuLoc, we gather here today 
+DELAY 1 	
+ENTER	
+STRING to bear witness to the union....
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING (eyeing the setting sun) Um-
+DELAY 1 	
+ENTER	
+STRING PRIEST
+DELAY 1 	
+ENTER	
+STRING ...of our new king...
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Excuse me. Could we just skip ahead 
+DELAY 1 	
+ENTER	
+STRING to the "I do's"?
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING (chuckles and then motions to the priest 
+DELAY 1 	
+ENTER	
+STRING to indulge Fiona) Go on.
+DELAY 1 	
+ENTER	
+STRING COURTYARD
+DELAY 1 	
+ENTER	
+STRING Some guards are milling around. Suddenly the dragon lands with 
+DELAY 1 	
+ENTER	
+STRING a boom. The guards all take off running.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING (to Dragon) Go ahead, HAVE SOME FUN. 
+DELAY 1 	
+ENTER	
+STRING If we need you, I'll whistle. How about 
+DELAY 1 	
+ENTER	
+STRING that? (she nods and goes after the guards) 
+DELAY 1 	
+ENTER	
+STRING Shrek, wait, wait! Wait a minute! You 
+DELAY 1 	
+ENTER	
+STRING wanna do this right, don't you?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING (at the Church door) What are you talking 
+DELAY 1 	
+ENTER	
+STRING about?
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING There's a line you gotta wait for. The 
+DELAY 1 	
+ENTER	
+STRING preacher's gonna say, "Speak now or 
+DELAY 1 	
+ENTER	
+STRING forever hold your peace." That's when 
+DELAY 1 	
+ENTER	
+STRING you say, "I object!"
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING I don't have time for this!
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Hey, wait. What are you doing? Listen 
+DELAY 1 	
+ENTER	
+STRING to me! Look, you love this woman, don't 
+DELAY 1 	
+ENTER	
+STRING you?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Yes.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING You wanna hold her?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Yes.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Please her?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Yes!
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING (singing James Brown style) Then you 
+DELAY 1 	
+ENTER	
+STRING got to, got to try a little tenderness. 
+DELAY 1 	
+ENTER	
+STRING (normal) The chicks love that romantic 
+DELAY 1 	
+ENTER	
+STRING crap!
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING All right! Cut it out. When does this 
+DELAY 1 	
+ENTER	
+STRING guy say the line?
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING We gotta check it out.
+DELAY 1 	
+ENTER	
+STRING INSIDE CHURCH
+DELAY 1 	
+ENTER	
+STRING As the priest talks we see Donkey's shadow through one of the 
+DELAY 1 	
+ENTER	
+STRING windows Shrek tosses him up so he can see.
+DELAY 1 	
+ENTER	
+STRING PRIEST
+DELAY 1 	
+ENTER	
+STRING And so, by the power vested in me...
+DELAY 1 	
+ENTER	
+STRING Outside
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING What do you see?
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING The whole town's in there.
+DELAY 1 	
+ENTER	
+STRING Inside
+DELAY 1 	
+ENTER	
+STRING PRIEST
+DELAY 1 	
+ENTER	
+STRING I now pronounce you husband and wife...
+DELAY 1 	
+ENTER	
+STRING Outside
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING They're at the altar.
+DELAY 1 	
+ENTER	
+STRING Inside
+DELAY 1 	
+ENTER	
+STRING PRIEST
+DELAY 1 	
+ENTER	
+STRING ...king and queen.
+DELAY 1 	
+ENTER	
+STRING Outside
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Mother Fletcher! He already said it.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Oh, for the love of Pete!
+DELAY 1 	
+ENTER	
+STRING He runs inside without catching Donkey, who hits the ground hard.
+DELAY 1 	
+ENTER	
+STRING INSIDE CHURCH
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING (running toward the alter) I object!
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Shrek?
+DELAY 1 	
+ENTER	
+STRING The whole congregation gasps as they see Shrek.
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING Oh, now what does he want?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING (to congregation as he reaches the front 
+DELAY 1 	
+ENTER	
+STRING of the Church) Hi, everyone. Havin' 
+DELAY 1 	
+ENTER	
+STRING a good time, are ya? I love DuLoc, first 
+DELAY 1 	
+ENTER	
+STRING of all. Very clean.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING What are you doing here?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Really, it's rude enough being alive 
+DELAY 1 	
+ENTER	
+STRING when no one wants you, but showing up 
+DELAY 1 	
+ENTER	
+STRING uninvited to a wedding...
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Fiona! I need to talk to you.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Oh, now you wanna talk? It's a little 
+DELAY 1 	
+ENTER	
+STRING late for that, so if you'll excuse me 
+DELAY 1 	
+ENTER	
+STRING - -
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING But you can't marry him.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING And why not?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Because- - Because he's just marring 
+DELAY 1 	
+ENTER	
+STRING you so he can be king.
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING Outrageous! Fiona, don't listen to him.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING He's not your true love.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING And what do you know about true love?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Well, I - - Uh - - I mean - -
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING Oh, this is precious. The ogee has fallen 
+DELAY 1 	
+ENTER	
+STRING in love with the princess! Oh, good 
+DELAY 1 	
+ENTER	
+STRING Lord. (laughs)
+DELAY 1 	
+ENTER	
+STRING The prompter card guy holds up a card that says 'Laugh'. The 
+DELAY 1 	
+ENTER	
+STRING whole congregation laughs.
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING An ogre and a princess!
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Shrek, is this true?
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING Who cares? It's preposterous! Fiona, 
+DELAY 1 	
+ENTER	
+STRING my love, we're but a kiss away from 
+DELAY 1 	
+ENTER	
+STRING our "happily ever after." Now kiss me! 
+DELAY 1 	
+ENTER	
+STRING (puckers his lips and leans toward her, 
+DELAY 1 	
+ENTER	
+STRING but she pulls back.)
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING (looking at the setting sun) "By night 
+DELAY 1 	
+ENTER	
+STRING one way, by day another." (to Shrek) 
+DELAY 1 	
+ENTER	
+STRING I wanted to show you before.
+DELAY 1 	
+ENTER	
+STRING She backs up and as the sun sets she changes into her ogre self. 
+DELAY 1 	
+ENTER	
+STRING She gives Shrek a sheepish smile.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Well, uh, that explains a lot. (Fiona 
+DELAY 1 	
+ENTER	
+STRING smiles)
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING Ugh! It's disgusting! Guards! Guards! 
+DELAY 1 	
+ENTER	
+STRING I order you to get that out of my sight 
+DELAY 1 	
+ENTER	
+STRING now! Get them! Get them both!
+DELAY 1 	
+ENTER	
+STRING The guards run in and separate Fiona and Shrek. Shrek fights 
+DELAY 1 	
+ENTER	
+STRING them.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING No, no!
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Shrek!
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING This hocus-pocus alters nothing. This 
+DELAY 1 	
+ENTER	
+STRING marriage is binding, and that makes 
+DELAY 1 	
+ENTER	
+STRING me king! See? See?
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING No, let go of me! Shrek!
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING No!
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING Don't just stand there, you morons.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Get out of my way! Fiona! Arrgh!
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING I'll make you regret the day we met. 
+DELAY 1 	
+ENTER	
+STRING I'll see you drawn and quartered! You'll 
+DELAY 1 	
+ENTER	
+STRING beg for death to save you!
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING No, Shrek!
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING (hold a dagger to Fiona's throat) And 
+DELAY 1 	
+ENTER	
+STRING as for you, my wife...
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Fiona!
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING I'll have you locked back in that tower 
+DELAY 1 	
+ENTER	
+STRING for the rest of your days! I'm king!
+DELAY 1 	
+ENTER	
+STRING Shrek manages to get a hand free and he whistles.
+DELAY 1 	
+ENTER	
+STRING FARQUAAD
+DELAY 1 	
+ENTER	
+STRING I will have order! I will have perfection! 
+DELAY 1 	
+ENTER	
+STRING I will have - - (Donkey and the dragon 
+DELAY 1 	
+ENTER	
+STRING show up and the dragon leans down and 
+DELAY 1 	
+ENTER	
+STRING eats Farquaad) Aaaah! Aah!
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING All right. Nobody move. I got a dragon 
+DELAY 1 	
+ENTER	
+STRING here, and I'm not afraid to use it. 
+DELAY 1 	
+ENTER	
+STRING (The dragon roars.) I'm a donkey on 
+DELAY 1 	
+ENTER	
+STRING the edge!
+DELAY 1 	
+ENTER	
+STRING The dragon belches and Farquaad's crown flies out of her mouth 
+DELAY 1 	
+ENTER	
+STRING and falls to the ground.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Celebrity marriages. They never last, 
+DELAY 1 	
+ENTER	
+STRING do they?
+DELAY 1 	
+ENTER	
+STRING The congregation cheers.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING Go ahead, Shrek.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Uh, Fiona?
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Yes, Shrek?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING I - - I love you.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING Really?
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING Really, really.
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING (smiles) I love you too.
+DELAY 1 	
+ENTER	
+STRING Shrek and Fiona kiss. Thelonius takes one of the cards and writes 
+DELAY 1 	
+ENTER	
+STRING 'Awwww' on the back and then shows it to the congregation.
+DELAY 1 	
+ENTER	
+STRING CONGREGATION
+DELAY 1 	
+ENTER	
+STRING Aawww!
+DELAY 1 	
+ENTER	
+STRING Suddenly the magic of the spell pulls Fiona away. She's lifted 
+DELAY 1 	
+ENTER	
+STRING up into the air and she hovers there while the magic works around 
+DELAY 1 	
+ENTER	
+STRING her.
+DELAY 1 	
+ENTER	
+STRING WHISPERS
+DELAY 1 	
+ENTER	
+STRING "Until you find true love's first kiss 
+
+
+and then take love's true form. Take 
+
+
+love's true form. Take love's true form."
+DELAY 1 	
+ENTER	
+STRING Suddenly Fiona's eyes open wide. She's consumed by the spell 
+DELAY 1 	
+ENTER	
+STRING and then is slowly lowered to the ground.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING (going over to her) Fiona? Fiona. Are 
+DELAY 1 	
+ENTER	
+STRING you all right?
+DELAY 1 	
+ENTER	
+STRING FIONA
+DELAY 1 	
+ENTER	
+STRING (standing up, she's still an ogre) Well, 
+DELAY 1 	
+ENTER	
+STRING yes. But I don't understand. I'm supposed 
+DELAY 1 	
+ENTER	
+STRING to be beautiful.
+DELAY 1 	
+ENTER	
+STRING SHREK
+DELAY 1 	
+ENTER	
+STRING But you ARE beautiful.
+DELAY 1 	
+ENTER	
+STRING They smile at each other.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING (chuckles) I was hoping this would be 
+DELAY 1 	
+ENTER	
+STRING a happy ending.
+DELAY 1 	
+ENTER	
+STRING Shrek and Fiona kiss...and the kiss fades into...
+DELAY 1 	
+ENTER	
+STRING THE SWAMP
+DELAY 1 	
+ENTER	
+STRING ...their wedding kiss. Shrek and Fiona are now married. 'I'm 
+DELAY 1 	
+ENTER	
+STRING a Believer' by Smashmouth is played in the background. Shrek 
+DELAY 1 	
+ENTER	
+STRING and Fiona break apart and run through the crowd to their awaiting 
+DELAY 1 	
+ENTER	
+STRING carriage. Which is made of a giant onion. Fiona tosses her bouquet 
+DELAY 1 	
+ENTER	
+STRING which both Cinderella and Snow White try to catch. But they end 
+DELAY 1 	
+ENTER	
+STRING up getting into a cat fight and so the dragon catches the bouquet 
+DELAY 1 	
+ENTER	
+STRING instead. The Gingerbread man has been mended somewhat and now 
+DELAY 1 	
+ENTER	
+STRING has one leg and walks with a candy cane cane. Shrek and Fiona 
+DELAY 1 	
+ENTER	
+STRING walk off as the rest of the guests party and Donkey takes over 
+DELAY 1 	
+ENTER	
+STRING singing the song.
+DELAY 1 	
+ENTER	
+STRING GINGERBREAD MAN
+DELAY 1 	
+ENTER	
+STRING God bless us, every one.
+DELAY 1 	
+ENTER	
+STRING DONKEY
+DELAY 1 	
+ENTER	
+STRING (as he's done singing and we fade to 
+DELAY 1 	
+ENTER	
+STRING black) Oh, that's funny. Oh. Oh. I can't 
+DELAY 1 	
+ENTER	
+STRING breathe. I can't breathe.
+DELAY 1 	
+ENTER	
+STRING THE END
+DELAY 1 	
+ENTER	
+REM fin de scrip
